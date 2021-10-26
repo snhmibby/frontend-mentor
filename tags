@@ -1,0 +1,105 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+.btn-proceed	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/style.scss	/^	.btn-proceed {$/;"	c
+.container	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/style.scss	/^.container {$/;"	c
+.order-details	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/style.scss	/^	.order-details {$/;"	c
+.order-summary	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/style.scss	/^.order-summary {$/;"	c
+Acknowledgments	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Order summary card solution
+Acknowledgments	frontend-challenges/order-summary-component-main/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Order summary card solution
+Author	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Order summary card solution
+Author	frontend-challenges/order-summary-component-main/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Order summary card solution
+Body Copy	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
+Body Copy	frontend-challenges/order-summary-component-main/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
+Building your project	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Order summary card
+Building your project	frontend-challenges/order-summary-component-main/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Order summary card
+Built with	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Order summary card solution""My process
+Built with	frontend-challenges/order-summary-component-main/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Order summary card solution""My process
+Colors	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
+Colors	frontend-challenges/order-summary-component-main/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
+Continued development	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Order summary card solution""My process
+Continued development	frontend-challenges/order-summary-component-main/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Order summary card solution""My process
+Create a custom `README.md`	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Order summary card
+Create a custom `README.md`	frontend-challenges/order-summary-component-main/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Order summary card
+Deploying your project	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Order summary card
+Deploying your project	frontend-challenges/order-summary-component-main/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Order summary card
+Font	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
+Font	frontend-challenges/order-summary-component-main/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
+Front-end Style Guide	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/style-guide.md	/^# Front-end Style Guide$/;"	c
+Front-end Style Guide	frontend-challenges/order-summary-component-main/style-guide.md	/^# Front-end Style Guide$/;"	c
+Frontend Mentor - Order summary card	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README.md	/^# Frontend Mentor - Order summary card$/;"	c
+Frontend Mentor - Order summary card	frontend-challenges/order-summary-component-main/README.md	/^# Frontend Mentor - Order summary card$/;"	c
+Frontend Mentor - Order summary card solution	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README-template.md	/^# Frontend Mentor - Order summary card solution$/;"	c
+Frontend Mentor - Order summary card solution	frontend-challenges/order-summary-component-main/README-template.md	/^# Frontend Mentor - Order summary card solution$/;"	c
+Got feedback for us?	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Order summary card
+Got feedback for us?	frontend-challenges/order-summary-component-main/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Order summary card
+JS: frontend-mentor/order-summary-component/script.js	content/frontend-mentor/order-summary-component/_index.md	/^JS: frontend-mentor\/order-summary-component\/script.js$/;"	s
+JS: {{ printf "frontend-mentor/%s/script.js" .Name }}	archetypes/default.md	/^JS: {{ printf "frontend-mentor\/%s\/script.js" .Name }}$/;"	s
+Layout	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
+Layout	frontend-challenges/order-summary-component-main/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
+Links	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
+Links	frontend-challenges/order-summary-component-main/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
+My process	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Order summary card solution
+My process	frontend-challenges/order-summary-component-main/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Order summary card solution
+Neutral	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
+Neutral	frontend-challenges/order-summary-component-main/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
+Order Summary	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/index.html	/^      <h1>Order Summary<\/h1>$/;"	h
+Overview	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Order summary card solution
+Overview	frontend-challenges/order-summary-component-main/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Order summary card solution
+Primary	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
+Primary	frontend-challenges/order-summary-component-main/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
+Screenshot	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
+Screenshot	frontend-challenges/order-summary-component-main/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
+Sharing your solution	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Order summary card
+Sharing your solution	frontend-challenges/order-summary-component-main/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Order summary card
+Submitting your solution	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Order summary card
+Submitting your solution	frontend-challenges/order-summary-component-main/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Order summary card
+Table of contents	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Order summary card solution
+Table of contents	frontend-challenges/order-summary-component-main/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Order summary card solution
+The challenge	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
+The challenge	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Order summary card
+The challenge	frontend-challenges/order-summary-component-main/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
+The challenge	frontend-challenges/order-summary-component-main/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Order summary card
+Typography	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
+Typography	frontend-challenges/order-summary-component-main/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
+Useful resources	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Order summary card solution""My process
+Useful resources	frontend-challenges/order-summary-component-main/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Order summary card solution""My process
+Welcome! 👋	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Order summary card
+Welcome! 👋	frontend-challenges/order-summary-component-main/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Order summary card
+What I learned	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Order summary card solution""My process
+What I learned	frontend-challenges/order-summary-component-main/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Order summary card solution""My process
+Where to find everything	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Order summary card
+Where to find everything	frontend-challenges/order-summary-component-main/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Order summary card
+a	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	d
+a	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
+a	frontend-challenges/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	d
+a	frontend-challenges/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
+a	static/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	d
+a	static/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
+b	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
+b	frontend-challenges/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
+b	static/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
+install	install-challenge.sh	/^install() {$/;"	f
+ns0c31fcdb0101	static/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/2000/svg
+ns612483440101	frontend-challenges/order-summary-component-main/images/pattern-background-desktop.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="1440" height="437"><path fill="#D6E1FF" fill-/;"	n	uri:http://www.w3.org/2000/svg
+ns64778bfb0101	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/2000/svg
+ns9467bdc20101	frontend-challenges/order-summary-component-main/images/pattern-background-mobile.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="375" height="194"><path fill="#D6E1FF" fill-r/;"	n	uri:http://www.w3.org/2000/svg
+nsa70b0f060101	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/images/pattern-background-mobile.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="375" height="194"><path fill="#D6E1FF" fill-r/;"	n	uri:http://www.w3.org/2000/svg
+nsc4f884290101	frontend-challenges/order-summary-component-main/images/icon-music.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="48" height="48"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
+nsc7185fe60101	static/frontend-mentor/order-summary-component/images/pattern-background-mobile.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="375" height="194"><path fill="#D6E1FF" fill-r/;"	n	uri:http://www.w3.org/2000/svg
+nsc831fd080101	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/images/pattern-background-desktop.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="1440" height="437"><path fill="#D6E1FF" fill-/;"	n	uri:http://www.w3.org/2000/svg
+nsc8df3eb70101	frontend-challenges/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/2000/svg
+nsc9aca2cd0101	static/frontend-mentor/order-summary-component/images/icon-music.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="48" height="48"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
+nsdc72f5ed0101	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/images/icon-music.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="48" height="48"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
+nse9e969e80101	static/frontend-mentor/order-summary-component/images/pattern-background-desktop.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="1440" height="437"><path fill="#D6E1FF" fill-/;"	n	uri:http://www.w3.org/2000/svg
+run	install-challenge.sh	/^run() {$/;"	f
+usage	install-challenge.sh	/^usage() {$/;"	f
+xlink	frontend-challenges/ALREADY-DONE-BEFORE-HUGO/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	frontend-challenges/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	static/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/1999/xlink

@@ -1,0 +1,11 @@
+<head>
+	{{ with .Params.SCSS }}
+		{{ $scss := resources.Get . | toCSS }}
+		<link rel="stylesheet" href="{{ $scss.RelPermalink }}">
+	{{ end }}
+	{{ with .Params.JS }}
+		{{ $js := resources.Get . | toCSS }}
+		<script src="{{ $js.RelPermalink }}"></script>
+	{{ end }}
+	<title>{{.Title}}</title>
+</head>
