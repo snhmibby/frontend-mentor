@@ -7,6 +7,22 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	//
+.btn-proceed	assets/frontend-mentor/order-summary-component/style.scss	/^	.btn-proceed {$/;"	c
+.container	assets/frontend-mentor/order-summary-component/style.scss	/^.container {$/;"	c
+.container	public/frontend-mentor/order-summary-component/style.css	/^.container {$/;"	c
+.order-details	assets/frontend-mentor/order-summary-component/style.scss	/^	.order-details {$/;"	c
+.order-summary	assets/frontend-mentor/order-summary-component/style.scss	/^.order-summary {$/;"	c
+.order-summary	public/frontend-mentor/order-summary-component/style.css	/^.order-summary {$/;"	c
+.order-summary .btn-proceed	public/frontend-mentor/order-summary-component/style.css	/^  .order-summary .btn-proceed {$/;"	c
+.order-summary .order-details	public/frontend-mentor/order-summary-component/style.css	/^  .order-summary .order-details {$/;"	c
+.order-summary .order-details a	public/frontend-mentor/order-summary-component/style.css	/^    .order-summary .order-details a {$/;"	s
+.order-summary .order-details b	public/frontend-mentor/order-summary-component/style.css	/^    .order-summary .order-details b {$/;"	s
+.order-summary .order-details div	public/frontend-mentor/order-summary-component/style.css	/^    .order-summary .order-details div {$/;"	s
+.order-summary .order-details img	public/frontend-mentor/order-summary-component/style.css	/^    .order-summary .order-details img {$/;"	s
+.order-summary button	public/frontend-mentor/order-summary-component/style.css	/^  .order-summary button {$/;"	s
+.order-summary h1	public/frontend-mentor/order-summary-component/style.css	/^  .order-summary h1 {$/;"	s
+.order-summary p	public/frontend-mentor/order-summary-component/style.css	/^  .order-summary p {$/;"	s
+:root	public/frontend-mentor/order-summary-component/style.css	/^:root {$/;"	s
 Acknowledgments	frontend-challenges/order-summary-component-main/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Order summary card solution
 Author	frontend-challenges/order-summary-component-main/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Order summary card solution
 Body Copy	frontend-challenges/order-summary-component-main/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
@@ -27,6 +43,8 @@ Links	frontend-challenges/order-summary-component-main/README-template.md	/^### 
 MediaType	resources/_gen/assets/scss/frontend-mentor/order-summary-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"frontend-mentor\/order-summary-component\/style.css","MediaType":"text\/css","Data":{/;"	s
 My process	frontend-challenges/order-summary-component-main/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Order summary card solution
 Neutral	frontend-challenges/order-summary-component-main/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
+Order Summary	layouts/frontend-mentor/order-summary-component.html	/^      <h1>Order Summary<\/h1>$/;"	h
+Order Summary	public/frontend-mentor/order-summary-component/index.html	/^      <h1>Order Summary<\/h1>$/;"	h
 Overview	frontend-challenges/order-summary-component-main/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Order summary card solution
 Primary	frontend-challenges/order-summary-component-main/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
 Screenshot	frontend-challenges/order-summary-component-main/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
@@ -54,6 +72,7 @@ atom	public/tags/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\
 b	frontend-challenges/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
 b	public/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
 b	static/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
+body	public/frontend-mentor/order-summary-component/style.css	/^body {$/;"	s
 install	install-challenge.sh	/^install() {$/;"	f
 layout: order-summary-component	content/frontend-mentor/order-summary-component.md	/^layout: order-summary-component$/;"	s
 layout: {{ .Name }}	archetypes/default.md	/^layout: {{ .Name }}$/;"	s
