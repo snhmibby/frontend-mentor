@@ -15,9 +15,9 @@ zip="$challenge-main.zip"
 cdir="frontend-challenges"
 
 #installed hugo content:
-html=layouts/frontend-mentor/"$challenge/list.html"
+html=layouts/frontend-mentor/"$challenge.html"
 assets=assets/frontend-mentor/"$challenge/"
-content=frontend-mentor/"$challenge/_index.md"
+content=frontend-mentor/"$challenge.md"
 
 run() {
 	vim  "$html" "$assets"/{script.js,style.scss} content/"$content"
@@ -54,7 +54,6 @@ install() {
 
 	#install html
 	html=../../"$html"
-	mkdir -p "../../layouts/frontend-mentor/$challenge"
 	echo '{{ define "main" }}' >> "$html"
 	echo "TODO REMOVE UNTIL BODY TAGS" >> "$html"
 	cat index.html >> "$html"
