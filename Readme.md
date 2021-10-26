@@ -1,5 +1,5 @@
 Another Hugo site for displaying my frontend-mentor challenge solutions.
-Download a challenge zip and place it in challenges/ then run ./setup-challenge 'challenge-name'
+Download a challenge zip and place it in challenges/ then run ./challenge.sh install 'challenge-name'
 
 And it will:
 - unzip the challenge
@@ -10,3 +10,5 @@ And it will:
   - static/$challenge/
 
 script.js and style.scss are automatically included in rendering the .html
+
+To open all associated files do ./challenge.sh run 'challenge-name'
