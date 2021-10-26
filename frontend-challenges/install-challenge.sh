@@ -12,7 +12,6 @@ fi
 
 challenge="$2"
 zip="$challenge-main.zip"
-cdir="frontend-challenges"
 
 #installed hugo content:
 html=layouts/frontend-mentor/"$challenge.html"
@@ -31,7 +30,6 @@ install() {
 	fi
 
 	#unzip challenge
-	cd $cdir
 	if [ ! -f "$zip" ]; then
 		echo Download challenge zip file first...
 		usage

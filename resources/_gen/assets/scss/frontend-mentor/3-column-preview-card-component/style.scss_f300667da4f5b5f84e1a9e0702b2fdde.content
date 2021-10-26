@@ -1,0 +1,59 @@
+:root {
+  --bright: hsl(31, 77%, 52%);
+  --dark: hsl(184, 100%, 22%);
+  --very-dark: hsl(179, 100%, 13%);
+  --text-color: hsla(0, 0%, 100%, 0.75);
+  --light: hsl(0, 0%, 95%);
+  --round: 10px; }
+
+body {
+  background: var(--light);
+  font-size: 15px;
+  font-family: "Arial"; }
+
+h1,
+button,
+p {
+  color: var(--text-color); }
+
+main {
+  margin: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.car-display {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr; }
+  .car-display section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: var(--dark);
+    padding: 40px; }
+    .car-display section img {
+      width: 60px;
+      height: 40px; }
+    .car-display section:first-child {
+      background-color: var(--bright);
+      border-top-left-radius: var(--round);
+      border-bottom-left-radius: var(--round); }
+      .car-display section:first-child button {
+        color: var(--bright); }
+    .car-display section:last-child {
+      background-color: var(--very-dark);
+      border-top-right-radius: var(--round);
+      border-bottom-right-radius: var(--round); }
+      .car-display section:last-child button {
+        color: var(--very-dark); }
+    .car-display section button {
+      background-color: var(--light);
+      margin-top: 40px;
+      color: var(--dark);
+      position: relative;
+      left: -10px;
+      height: 40px;
+      border-radius: 20px;
+      border: none; }
+      .car-display section button:hover {
+        cursor: pointer; }

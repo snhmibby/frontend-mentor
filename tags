@@ -8,6 +8,16 @@
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	//
 .btn-proceed	assets/frontend-mentor/order-summary-component/style.scss	/^	.btn-proceed {$/;"	c
+.car-display	assets/frontend-mentor/3-column-preview-card-component/style.scss	/^.car-display {$/;"	c
+.car-display	public/frontend-mentor/3-column-preview-card-component/style.css	/^.car-display {$/;"	c
+.car-display section	public/frontend-mentor/3-column-preview-card-component/style.css	/^  .car-display section {$/;"	s
+.car-display section button	public/frontend-mentor/3-column-preview-card-component/style.css	/^    .car-display section button {$/;"	s
+.car-display section button:hover	public/frontend-mentor/3-column-preview-card-component/style.css	/^      .car-display section button:hover {$/;"	s
+.car-display section img	public/frontend-mentor/3-column-preview-card-component/style.css	/^    .car-display section img {$/;"	s
+.car-display section:first-child	public/frontend-mentor/3-column-preview-card-component/style.css	/^    .car-display section:first-child {$/;"	s
+.car-display section:first-child button	public/frontend-mentor/3-column-preview-card-component/style.css	/^      .car-display section:first-child button {$/;"	s
+.car-display section:last-child	public/frontend-mentor/3-column-preview-card-component/style.css	/^    .car-display section:last-child {$/;"	s
+.car-display section:last-child button	public/frontend-mentor/3-column-preview-card-component/style.css	/^      .car-display section:last-child button {$/;"	s
 .container	assets/frontend-mentor/order-summary-component/style.scss	/^.container {$/;"	c
 .container	public/frontend-mentor/order-summary-component/style.css	/^.container {$/;"	c
 .order-details	assets/frontend-mentor/order-summary-component/style.scss	/^	.order-details {$/;"	c
@@ -22,45 +32,89 @@
 .order-summary button	public/frontend-mentor/order-summary-component/style.css	/^  .order-summary button {$/;"	s
 .order-summary h1	public/frontend-mentor/order-summary-component/style.css	/^  .order-summary h1 {$/;"	s
 .order-summary p	public/frontend-mentor/order-summary-component/style.css	/^  .order-summary p {$/;"	s
+:root	public/frontend-mentor/3-column-preview-card-component/style.css	/^:root {$/;"	s
 :root	public/frontend-mentor/order-summary-component/style.css	/^:root {$/;"	s
-Acknowledgments	frontend-challenges/order-summary-component-main/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Order summary card solution
-Author	frontend-challenges/order-summary-component-main/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Order summary card solution
-Body Copy	frontend-challenges/order-summary-component-main/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
-Building your project	frontend-challenges/order-summary-component-main/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Order summary card
-Built with	frontend-challenges/order-summary-component-main/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Order summary card solution""My process
-Colors	frontend-challenges/order-summary-component-main/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
-Continued development	frontend-challenges/order-summary-component-main/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Order summary card solution""My process
-Create a custom `README.md`	frontend-challenges/order-summary-component-main/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Order summary card
+Acknowledgments	frontend-challenges/3-column-preview-card-component-main/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - 3-column preview card component solution
+Acknowledgments	frontend-challenges/finished/order-summary-component-main/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Order summary card solution
+Author	frontend-challenges/3-column-preview-card-component-main/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - 3-column preview card component solution
+Author	frontend-challenges/finished/order-summary-component-main/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Order summary card solution
+Body Copy	frontend-challenges/3-column-preview-card-component-main/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
+Body Copy	frontend-challenges/finished/order-summary-component-main/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
+Building your project	frontend-challenges/3-column-preview-card-component-main/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - 3-column preview card component
+Building your project	frontend-challenges/finished/order-summary-component-main/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Order summary card
+Built with	frontend-challenges/3-column-preview-card-component-main/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - 3-column preview card component solution""My process
+Built with	frontend-challenges/finished/order-summary-component-main/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Order summary card solution""My process
+Categories	public/categories/index.html	/^		<h1>Categories<\/h1>$/;"	h
+Colors	frontend-challenges/3-column-preview-card-component-main/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
+Colors	frontend-challenges/finished/order-summary-component-main/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
+Continued development	frontend-challenges/3-column-preview-card-component-main/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - 3-column preview card component solution""My process
+Continued development	frontend-challenges/finished/order-summary-component-main/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Order summary card solution""My process
+Create a custom `README.md`	frontend-challenges/3-column-preview-card-component-main/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - 3-column preview card component
+Create a custom `README.md`	frontend-challenges/finished/order-summary-component-main/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Order summary card
+Data	resources/_gen/assets/scss/frontend-mentor/3-column-preview-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"frontend-mentor\/3-column-preview-card-component\/style.css","MediaType":"text\/css",/;"	o
 Data	resources/_gen/assets/scss/frontend-mentor/order-summary-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"frontend-mentor\/order-summary-component\/style.css","MediaType":"text\/css","Data":{/;"	o
-Deploying your project	frontend-challenges/order-summary-component-main/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Order summary card
-Font	frontend-challenges/order-summary-component-main/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
-Front-end Style Guide	frontend-challenges/order-summary-component-main/style-guide.md	/^# Front-end Style Guide$/;"	c
-Frontend Mentor - Order summary card	frontend-challenges/order-summary-component-main/README.md	/^# Frontend Mentor - Order summary card$/;"	c
-Frontend Mentor - Order summary card solution	frontend-challenges/order-summary-component-main/README-template.md	/^# Frontend Mentor - Order summary card solution$/;"	c
-Got feedback for us?	frontend-challenges/order-summary-component-main/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Order summary card
-Layout	frontend-challenges/order-summary-component-main/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
-Links	frontend-challenges/order-summary-component-main/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
+Deploying your project	frontend-challenges/3-column-preview-card-component-main/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - 3-column preview card component
+Deploying your project	frontend-challenges/finished/order-summary-component-main/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Order summary card
+Font	frontend-challenges/3-column-preview-card-component-main/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
+Font	frontend-challenges/finished/order-summary-component-main/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
+Front-end Style Guide	frontend-challenges/3-column-preview-card-component-main/style-guide.md	/^# Front-end Style Guide$/;"	c
+Front-end Style Guide	frontend-challenges/finished/order-summary-component-main/style-guide.md	/^# Front-end Style Guide$/;"	c
+Frontend Mentor - 3-column preview card component	frontend-challenges/3-column-preview-card-component-main/README.md	/^# Frontend Mentor - 3-column preview card component$/;"	c
+Frontend Mentor - 3-column preview card component solution	frontend-challenges/3-column-preview-card-component-main/README-template.md	/^# Frontend Mentor - 3-column preview card component solution$/;"	c
+Frontend Mentor - Order summary card	frontend-challenges/finished/order-summary-component-main/README.md	/^# Frontend Mentor - Order summary card$/;"	c
+Frontend Mentor - Order summary card solution	frontend-challenges/finished/order-summary-component-main/README-template.md	/^# Frontend Mentor - Order summary card solution$/;"	c
+Frontend-mentors	public/frontend-mentor/index.html	/^		<h1>Frontend-mentors<\/h1>$/;"	h
+Got feedback for us?	frontend-challenges/3-column-preview-card-component-main/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - 3-column preview card component
+Got feedback for us?	frontend-challenges/finished/order-summary-component-main/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Order summary card
+Layout	frontend-challenges/3-column-preview-card-component-main/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
+Layout	frontend-challenges/finished/order-summary-component-main/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
+Links	frontend-challenges/3-column-preview-card-component-main/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - 3-column preview card component solution""Overview
+Links	frontend-challenges/finished/order-summary-component-main/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
+Luxury	layouts/frontend-mentor/3-column-preview-card-component.html	/^    <h1>Luxury<\/h1>$/;"	h
+Luxury	public/frontend-mentor/3-column-preview-card-component/index.html	/^    <h1>Luxury<\/h1>$/;"	h
+MediaType	resources/_gen/assets/scss/frontend-mentor/3-column-preview-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"frontend-mentor\/3-column-preview-card-component\/style.css","MediaType":"text\/css",/;"	s
 MediaType	resources/_gen/assets/scss/frontend-mentor/order-summary-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"frontend-mentor\/order-summary-component\/style.css","MediaType":"text\/css","Data":{/;"	s
-My process	frontend-challenges/order-summary-component-main/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Order summary card solution
-Neutral	frontend-challenges/order-summary-component-main/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
+My process	frontend-challenges/3-column-preview-card-component-main/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - 3-column preview card component solution
+My process	frontend-challenges/finished/order-summary-component-main/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Order summary card solution
+Neutral	frontend-challenges/3-column-preview-card-component-main/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
+Neutral	frontend-challenges/finished/order-summary-component-main/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
 Order Summary	layouts/frontend-mentor/order-summary-component.html	/^      <h1>Order Summary<\/h1>$/;"	h
 Order Summary	public/frontend-mentor/order-summary-component/index.html	/^      <h1>Order Summary<\/h1>$/;"	h
-Overview	frontend-challenges/order-summary-component-main/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Order summary card solution
-Primary	frontend-challenges/order-summary-component-main/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
-Screenshot	frontend-challenges/order-summary-component-main/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
-Sharing your solution	frontend-challenges/order-summary-component-main/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Order summary card
-Submitting your solution	frontend-challenges/order-summary-component-main/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Order summary card
-Table of contents	frontend-challenges/order-summary-component-main/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Order summary card solution
+Overview	frontend-challenges/3-column-preview-card-component-main/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - 3-column preview card component solution
+Overview	frontend-challenges/finished/order-summary-component-main/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Order summary card solution
+Primary	frontend-challenges/3-column-preview-card-component-main/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
+Primary	frontend-challenges/finished/order-summary-component-main/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
+SUVs	layouts/frontend-mentor/3-column-preview-card-component.html	/^    <h1>SUVs<\/h1>$/;"	h
+SUVs	public/frontend-mentor/3-column-preview-card-component/index.html	/^    <h1>SUVs<\/h1>$/;"	h
+Screenshot	frontend-challenges/3-column-preview-card-component-main/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - 3-column preview card component solution""Overview
+Screenshot	frontend-challenges/finished/order-summary-component-main/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
+Sedans	layouts/frontend-mentor/3-column-preview-card-component.html	/^    <h1>Sedans<\/h1>$/;"	h
+Sedans	public/frontend-mentor/3-column-preview-card-component/index.html	/^    <h1>Sedans<\/h1>$/;"	h
+Sharing your solution	frontend-challenges/3-column-preview-card-component-main/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - 3-column preview card component
+Sharing your solution	frontend-challenges/finished/order-summary-component-main/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Order summary card
+Submitting your solution	frontend-challenges/3-column-preview-card-component-main/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - 3-column preview card component
+Submitting your solution	frontend-challenges/finished/order-summary-component-main/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Order summary card
+Table of contents	frontend-challenges/3-column-preview-card-component-main/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - 3-column preview card component solution
+Table of contents	frontend-challenges/finished/order-summary-component-main/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Order summary card solution
+Tags	public/tags/index.html	/^		<h1>Tags<\/h1>$/;"	h
+Target	resources/_gen/assets/scss/frontend-mentor/3-column-preview-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"frontend-mentor\/3-column-preview-card-component\/style.css","MediaType":"text\/css",/;"	s
 Target	resources/_gen/assets/scss/frontend-mentor/order-summary-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"frontend-mentor\/order-summary-component\/style.css","MediaType":"text\/css","Data":{/;"	s
-The challenge	frontend-challenges/order-summary-component-main/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
-The challenge	frontend-challenges/order-summary-component-main/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Order summary card
-Typography	frontend-challenges/order-summary-component-main/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
-Useful resources	frontend-challenges/order-summary-component-main/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Order summary card solution""My process
-Welcome! 👋	frontend-challenges/order-summary-component-main/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Order summary card
-What I learned	frontend-challenges/order-summary-component-main/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Order summary card solution""My process
-Where to find everything	frontend-challenges/order-summary-component-main/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Order summary card
-a	frontend-challenges/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	d
-a	frontend-challenges/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
+The challenge	frontend-challenges/3-column-preview-card-component-main/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - 3-column preview card component solution""Overview
+The challenge	frontend-challenges/3-column-preview-card-component-main/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - 3-column preview card component
+The challenge	frontend-challenges/finished/order-summary-component-main/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
+The challenge	frontend-challenges/finished/order-summary-component-main/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Order summary card
+Typography	frontend-challenges/3-column-preview-card-component-main/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
+Typography	frontend-challenges/finished/order-summary-component-main/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
+Useful resources	frontend-challenges/3-column-preview-card-component-main/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - 3-column preview card component solution""My process
+Useful resources	frontend-challenges/finished/order-summary-component-main/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Order summary card solution""My process
+Welcome! 👋	frontend-challenges/3-column-preview-card-component-main/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - 3-column preview card component
+Welcome! 👋	frontend-challenges/finished/order-summary-component-main/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Order summary card
+What I learned	frontend-challenges/3-column-preview-card-component-main/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - 3-column preview card component solution""My process
+What I learned	frontend-challenges/finished/order-summary-component-main/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Order summary card solution""My process
+Where to find everything	frontend-challenges/3-column-preview-card-component-main/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - 3-column preview card component
+Where to find everything	frontend-challenges/finished/order-summary-component-main/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Order summary card
+a	frontend-challenges/finished/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	d
+a	frontend-challenges/finished/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
 a	public/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	d
 a	public/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
 a	static/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	d
@@ -69,29 +123,47 @@ atom	public/categories/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w
 atom	public/frontend-mentor/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
 atom	public/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
 atom	public/tags/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
-b	frontend-challenges/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
+b	frontend-challenges/finished/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
 b	public/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
 b	static/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
+body	public/frontend-mentor/3-column-preview-card-component/style.css	/^body {$/;"	s
 body	public/frontend-mentor/order-summary-component/style.css	/^body {$/;"	s
-install	install-challenge.sh	/^install() {$/;"	f
+button	public/frontend-mentor/3-column-preview-card-component/style.css	/^button,$/;"	s
+draft: false	content/_index.md	/^draft: false$/;"	s
+h1	public/frontend-mentor/3-column-preview-card-component/style.css	/^h1,$/;"	s
+install	frontend-challenges/install-challenge.sh	/^install() {$/;"	f
+layout: 3-column-preview-card-component	content/frontend-mentor/3-column-preview-card-component.md	/^layout: 3-column-preview-card-component$/;"	s
 layout: order-summary-component	content/frontend-mentor/order-summary-component.md	/^layout: order-summary-component$/;"	s
 layout: {{ .Name }}	archetypes/default.md	/^layout: {{ .Name }}$/;"	s
+main	public/frontend-mentor/3-column-preview-card-component/style.css	/^main {$/;"	s
+ns00c5a6700101	frontend-challenges/finished/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/2000/svg
+ns07d1ab1d0101	frontend-challenges/finished/order-summary-component-main/images/pattern-background-desktop.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="1440" height="437"><path fill="#D6E1FF" fill-/;"	n	uri:http://www.w3.org/2000/svg
+ns091175b20101	static/frontend-mentor/3-column-preview-card-component/images/icon-luxury.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 ns0c31fcdb0101	static/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/2000/svg
+ns1ccf64ae0101	frontend-challenges/3-column-preview-card-component-main/images/icon-luxury.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 ns21e38f1f0101	public/frontend-mentor/order-summary-component/images/pattern-background-desktop.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="1440" height="437"><path fill="#D6E1FF" fill-/;"	n	uri:http://www.w3.org/2000/svg
-ns612483440101	frontend-challenges/order-summary-component-main/images/pattern-background-desktop.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="1440" height="437"><path fill="#D6E1FF" fill-/;"	n	uri:http://www.w3.org/2000/svg
+ns5b21c7570101	static/frontend-mentor/3-column-preview-card-component/images/icon-sedans.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
+ns6edfb6530101	frontend-challenges/3-column-preview-card-component-main/images/icon-sedans.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 ns705935650101	public/sitemap.xml	/^  xmlns:xhtml="http:\/\/www.w3.org\/1999\/xhtml">$/;"	n	uri:http://www.sitemaps.org/schemas/sitemap/0.9
 ns7b373a3d0101	public/frontend-mentor/order-summary-component/images/pattern-background-mobile.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="375" height="194"><path fill="#D6E1FF" fill-r/;"	n	uri:http://www.w3.org/2000/svg
-ns9467bdc20101	frontend-challenges/order-summary-component-main/images/pattern-background-mobile.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="375" height="194"><path fill="#D6E1FF" fill-r/;"	n	uri:http://www.w3.org/2000/svg
+ns7c6b1a020101	frontend-challenges/finished/order-summary-component-main/images/icon-music.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="48" height="48"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
+ns894d1ac90101	public/frontend-mentor/3-column-preview-card-component/images/icon-luxury.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
+ns91b2ce7b0101	frontend-challenges/finished/order-summary-component-main/images/pattern-background-mobile.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="375" height="194"><path fill="#D6E1FF" fill-r/;"	n	uri:http://www.w3.org/2000/svg
+ns9ad146010101	public/frontend-mentor/3-column-preview-card-component/images/icon-suvs.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 nsb8893a040101	public/frontend-mentor/order-summary-component/images/icon-music.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="48" height="48"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 nsc24370320101	public/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/2000/svg
-nsc4f884290101	frontend-challenges/order-summary-component-main/images/icon-music.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="48" height="48"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 nsc7185fe60101	static/frontend-mentor/order-summary-component/images/pattern-background-mobile.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="375" height="194"><path fill="#D6E1FF" fill-r/;"	n	uri:http://www.w3.org/2000/svg
-nsc8df3eb70101	frontend-challenges/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/2000/svg
 nsc9aca2cd0101	static/frontend-mentor/order-summary-component/images/icon-music.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="48" height="48"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
+nsdb5d6c6e0101	public/frontend-mentor/3-column-preview-card-component/images/icon-sedans.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
+nse4bfd2aa0101	static/frontend-mentor/3-column-preview-card-component/images/icon-suvs.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 nse9e969e80101	static/frontend-mentor/order-summary-component/images/pattern-background-desktop.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="1440" height="437"><path fill="#D6E1FF" fill-/;"	n	uri:http://www.w3.org/2000/svg
-run	install-challenge.sh	/^run() {$/;"	f
-usage	install-challenge.sh	/^usage() {$/;"	f
+nsf0fdd2a60101	frontend-challenges/3-column-preview-card-component-main/images/icon-suvs.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
+p	public/frontend-mentor/3-column-preview-card-component/style.css	/^p {$/;"	s
+run	frontend-challenges/install-challenge.sh	/^run() {$/;"	f
+usage	frontend-challenges/install-challenge.sh	/^usage() {$/;"	f
 xhtml	public/sitemap.xml	/^  xmlns:xhtml="http:\/\/www.w3.org\/1999\/xhtml">$/;"	n	uri:http://www.w3.org/1999/xhtml
-xlink	frontend-challenges/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	frontend-challenges/finished/order-summary-component-main/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/1999/xlink
 xlink	public/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/1999/xlink
 xlink	static/frontend-mentor/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/1999/xlink
+{{ .Title }}	layouts/_default/index.html	/^		<h1>{{ .Title }}<\/h1>$/;"	h
+{{ .Title }}	layouts/_default/list.html	/^		<h1>{{ .Title }}<\/h1>$/;"	h
