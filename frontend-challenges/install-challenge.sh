@@ -14,9 +14,9 @@ challenge="$2"
 zip="$challenge-main.zip"
 
 #installed hugo content:
-html=layouts/frontend-mentor/"$challenge.html"
-assets=assets/frontend-mentor/"$challenge/"
-content=frontend-mentor/"$challenge.md"
+html=layouts/"$challenge.html"
+assets=assets/"$challenge/"
+content="$challenge.md"
 
 run() {
 	vim  "$html" "$assets"/{script.js,style.scss} content/"$content"
@@ -43,10 +43,10 @@ install() {
 	cd "$challenge-main"
 
 	#install static files
-	mkdir -p ../../static/frontend-mentor/"$challenge"
+	mkdir -p ../../static/"$challenge"
 	for f in *; do
 		if [ -d "$f" ]; then
-			cp -R "$f" ../../static/frontend-mentor/"$challenge"
+			cp -R "$f" ../../static/"$challenge"
 		fi
 	done
 

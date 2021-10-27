@@ -4,7 +4,7 @@
   --very-dark: hsl(179, 100%, 13%);
   --text-color: hsla(0, 0%, 100%, 0.75); //paragraphs
   --light: hsl(0, 0%, 95%); //background, headings, buttons
-  --round: 10px;
+  --round: 2rem;
 }
 
 body {
@@ -36,11 +36,13 @@ main {
 		justify-content: space-between;
 
 		background-color: var(--dark);
-		padding: 40px;
+		padding: 3rem;
 
 		img {
-			width: 60px;
-			height: 40px;
+			width: 7rem;
+		}
+		p {
+			margin-bottom: 5rem;
 		}
 
 		&:first-child {
@@ -58,12 +60,10 @@ main {
 
 		button {
 			background-color: var(--light);
-			margin-top: 40px;
 			color: var(--dark);
 			position: relative;
-			left: -10px;
-			height: 40px;
-			border-radius: 20px;
+			height: 4rem;
+			border-radius: 2rem;
 			border: none;
 			&:hover {
 				cursor: pointer;
