@@ -1,0 +1,1 @@
+../../../assets/profile-card-component/script.js

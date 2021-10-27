@@ -3,8 +3,8 @@
 title: "{{ $name | title }}"
 date: {{ .Date }}
 draft: false
-scss: {{ printf "frontend-mentor/%s/style.scss" .Name }}
-js: {{ printf "frontend-mentor/%s/script.js" .Name }}
+scss: {{ printf "%s/style.scss" .Name }}
+js: {{ printf "%s/script.js" .Name }}
 layout: {{ .Name }}
 ---
 

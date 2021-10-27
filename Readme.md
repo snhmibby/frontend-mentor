@@ -1,4 +1,4 @@
-Another Hugo site for displaying my frontend-mentor challenge solutions.
+A Hugo site for displaying my frontend-mentor challenge solutions.
 Download a challenge zip and place it in challenges/ then run ./challenge.sh install 'challenge-name'
 
 And it will:

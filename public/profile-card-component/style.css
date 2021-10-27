@@ -1,0 +1,45 @@
+:root {
+  --primary-dark:    hsl(185, 75%, 39%);
+  --primary-bright:  hsl(229, 23%, 23%);
+  --primary-darkish: hsl(227, 10%, 46%);
+  --neutral-dark: hsl(0, 0%, 59%); }
+
+body {
+  background-color: var(--primary-dark);
+  background-image: url("images/bg-pattern-top");
+  background-blend-mode: multiply;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 18px;
+  font-family: "Kumbh Sans", "sans serif"; }
+
+p, h1 {
+  margin: 5px; }
+
+div.info {
+  padding: 25px;
+  border-radius: 2em;
+  background-color: white;
+  background-image: url("images/bg-pattern-card.svg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  width: 300px; }
+  div.info hr {
+    height: 1px;
+    background-color: var(--neutral-dark);
+    width: 100%;
+    border: none; }
+  div.info img {
+    border-radius: 48px;
+    margin-top: 70px;
+    border: 4px solid white; }
+  div.info .name-age {
+    display: flex; }
+    div.info .name-age .city {
+      align-self: flex-end; }
+  div.info .blurbs {
+    display: flex;
+    justify-content: space-between; }

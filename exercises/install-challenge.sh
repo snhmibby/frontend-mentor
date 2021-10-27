@@ -2,25 +2,27 @@
 # unpack a challenge zip file in challenges/
 
 usage() {
-	echo "$0 [install|do] [challenge-name]"
+	echo "$0 [challenge-name]"
 	exit 1
 }
 
-if [ ! "$#" -eq 2 ]; then
+if [ ! "$#" -eq 1 ]; then
 	usage
 fi
 
-challenge="$2"
+
+challenge="$1"
 zip="$challenge-main.zip"
 
+if [ -e ../static/"$challenge" ]; then
+	echo "already installed?"
+	exit 1
+fi
+
 #installed hugo content:
-html=layouts/"$challenge.html"
+html=layouts/_default/"$challenge.html"
 assets=assets/"$challenge/"
 content="$challenge.md"
-
-run() {
-	vim  "$html" "$assets"/{script.js,style.scss} content/"$content"
-}
 
 install() {
 	# if solution exists then stop
@@ -62,17 +64,13 @@ install() {
 	hugo new "$content"
 }
 
-case "$1" in
-	install)
-		install
-		;;
+install
+solution
 
-	run)
-		run
-		;;
+#make a directory to hold symlinks to all related files
+solutionDir="static/$challenge/solution"
+mkdir -p $solutionDir
+ln -s "$assets"/* "$solutionDir"/.
+ln -s "$html" "$solutionDir"/index.html
 
-	*)
-		usage
-		;;
 
-esac
