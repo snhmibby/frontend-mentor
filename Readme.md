@@ -4,11 +4,10 @@ Download a challenge zip and place it in challenges/ then run ./challenge.sh ins
 And it will:
 - unzip the challenge
 - create the following infrastructure
-  - layouts/partial/$challenge.html (empty !! TODO: should extract body)
+  - layouts/partial/$challenge.html (full html + template tags around !! TODO: should extract body)
   - assets/$challenge/{script.js,style.scss} (empty files, creating them is the challenge)
-  - content/challenge/$challenge.md (copies the readme)
-  - static/$challenge/
+  - content/$challenge.md 
+  - static/$challenge/{images,design,solution}/
 
 script.js and style.scss are automatically included in rendering the .html
-
-To open all associated files do ./challenge.sh run 'challenge-name'
+in static/"excercise-name"/solution are symlinks to all necessary files for the exercise
