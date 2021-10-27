@@ -7,7 +7,7 @@
 
 body {
 	background-color: var(--primary-dark);
-	background-image: url("images/bg-pattern-top");
+	background-image: url("images/bg-pattern-top.svg");
 	background-blend-mode: multiply;
 
 	height: 100%;
@@ -22,8 +22,8 @@ body {
 p, h1 { margin: 5px; }
 
 div.info {
-	padding: 25px;
-	border-radius: 2em;
+	padding: 15px;
+	border-radius: 1em;
 	background-color: white;
 	background-image: url("images/bg-pattern-card.svg");
 	background-repeat: no-repeat;
@@ -31,21 +31,21 @@ div.info {
 	width: 300px;
 
 	hr {
-		height: 1px;
+		margin-top: 3em;
+		height: 3px;
 		background-color: var(--neutral-dark);
-		width: 100%;
 		border: none;
 	}
+
 	img {
 		border-radius: 48px;
 		margin-top: 70px;
 		border:4px solid white;
 	}
-	.name-age {
+	.detail {
 		display: flex;
-		.city {
-			align-self: flex-end;
-		}
+		justify-content: center;
+		align-items: baseline;
 	}
 	.blurbs {
 		display: flex;

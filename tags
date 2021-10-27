@@ -53,12 +53,12 @@
 .car-display section:first-child button	public/3-column-preview-card-component/style.css	/^      .car-display section:first-child button {$/;"	s
 .car-display section:last-child	public/3-column-preview-card-component/style.css	/^    .car-display section:last-child {$/;"	s
 .car-display section:last-child button	public/3-column-preview-card-component/style.css	/^      .car-display section:last-child button {$/;"	s
-.city	assets/profile-card-component/style.scss	/^		.city {$/;"	c
-.city	public/profile-card-component/solution/style.scss	/^		.city {$/;"	c
 .container	assets/order-summary-component/style.scss	/^.container {$/;"	c
 .container	public/order-summary-component/solution/style.scss	/^.container {$/;"	c
 .container	public/order-summary-component/style.css	/^.container {$/;"	c
 .container	static/order-summary-component/solution/style.scss	/^.container {$/;"	c
+.detail	assets/profile-card-component/style.scss	/^	.detail {$/;"	c
+.detail	public/profile-card-component/solution/style.scss	/^	.detail {$/;"	c
 .detail	static/profile-card-component/solution/style.scss	/^	.detail {$/;"	c
 .img-placeholder	assets/stats-preview-card-component/style.scss	/^		.img-placeholder {$/;"	c
 .img-placeholder	assets/stats-preview-card-component/style.scss	/^	.img-placeholder {$/;"	c
@@ -69,8 +69,6 @@
 .info	assets/profile-card-component/style.scss	/^div.info {$/;"	c
 .info	public/profile-card-component/solution/style.scss	/^div.info {$/;"	c
 .info	static/profile-card-component/solution/style.scss	/^div.info {$/;"	c
-.name-age	assets/profile-card-component/style.scss	/^	.name-age {$/;"	c
-.name-age	public/profile-card-component/solution/style.scss	/^	.name-age {$/;"	c
 .order-details	assets/order-summary-component/style.scss	/^	.order-details {$/;"	c
 .order-details	public/order-summary-component/solution/style.scss	/^	.order-details {$/;"	c
 .order-details	static/order-summary-component/solution/style.scss	/^	.order-details {$/;"	c
@@ -330,8 +328,7 @@ d	static/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" he
 d	static/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
 div.info	public/profile-card-component/style.css	/^div.info {$/;"	c
 div.info .blurbs	public/profile-card-component/style.css	/^  div.info .blurbs {$/;"	c
-div.info .name-age	public/profile-card-component/style.css	/^  div.info .name-age {$/;"	c
-div.info .name-age .city	public/profile-card-component/style.css	/^    div.info .name-age .city {$/;"	c
+div.info .detail	public/profile-card-component/style.css	/^  div.info .detail {$/;"	c
 div.info hr	public/profile-card-component/style.css	/^  div.info hr {$/;"	s
 div.info img	public/profile-card-component/style.css	/^  div.info img {$/;"	s
 draft: false	content/_index.md	/^draft: false$/;"	s

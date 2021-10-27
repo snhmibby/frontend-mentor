@@ -6,7 +6,7 @@
 
 body {
   background-color: var(--primary-dark);
-  background-image: url("images/bg-pattern-top");
+  background-image: url("images/bg-pattern-top.svg");
   background-blend-mode: multiply;
   height: 100%;
   display: flex;
@@ -20,26 +20,26 @@ p, h1 {
   margin: 5px; }
 
 div.info {
-  padding: 25px;
-  border-radius: 2em;
+  padding: 15px;
+  border-radius: 1em;
   background-color: white;
   background-image: url("images/bg-pattern-card.svg");
   background-repeat: no-repeat;
   background-size: auto;
   width: 300px; }
   div.info hr {
-    height: 1px;
+    margin-top: 3em;
+    height: 3px;
     background-color: var(--neutral-dark);
-    width: 100%;
     border: none; }
   div.info img {
     border-radius: 48px;
     margin-top: 70px;
     border: 4px solid white; }
-  div.info .name-age {
-    display: flex; }
-    div.info .name-age .city {
-      align-self: flex-end; }
+  div.info .detail {
+    display: flex;
+    justify-content: center;
+    align-items: baseline; }
   div.info .blurbs {
     display: flex;
     justify-content: space-between; }
