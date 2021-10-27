@@ -71,6 +71,6 @@ solution
 solutionDir="static/$challenge/solution"
 mkdir -p $solutionDir
 ln -s "$assets"/* "$solutionDir"/.
-ln -s "$html" "$solutionDir"/index.html
+ln -s "$html" "$solutionDir"/"$challenge".html
 
 

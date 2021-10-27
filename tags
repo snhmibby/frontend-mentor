@@ -87,28 +87,28 @@
 .order-summary p	public/order-summary-component/style.css	/^  .order-summary p {$/;"	s
 1.4K	layouts/_default/profile-card-component.html	/^        <h1>1.4K<\/h1>$/;"	h
 1.4K	public/profile-card-component/index.html	/^        <h1>1.4K<\/h1>$/;"	h
-1.4K	public/profile-card-component/solution/index.html	/^        <h1>1.4K<\/h1>$/;"	h
-1.4K	static/profile-card-component/solution/index.html	/^        <h1>1.4K<\/h1>$/;"	h
+1.4K	public/profile-card-component/solution/profile-card-component.html	/^        <h1>1.4K<\/h1>$/;"	h
+1.4K	static/profile-card-component/solution/profile-card-component.html	/^        <h1>1.4K<\/h1>$/;"	h
 10k+	layouts/_default/stats-preview-card-component.html	/^      <div class="brag"><h1>10k+<\/h1> <p>companies<\/p><\/div>$/;"	h
 10k+	public/stats-preview-card-component/index.html	/^      <div class="brag"><h1>10k+<\/h1> <p>companies<\/p><\/div>$/;"	h
-10k+	public/stats-preview-card-component/solution/index.html	/^      <div class="brag"><h1>10k+<\/h1> <p>companies<\/p><\/div>$/;"	h
-10k+	static/stats-preview-card-component/solution/index.html	/^      <div class="brag"><h1>10k+<\/h1> <p>companies<\/p><\/div>$/;"	h
+10k+	public/stats-preview-card-component/solution/stats-preview-card.html	/^      <div class="brag"><h1>10k+<\/h1> <p>companies<\/p><\/div>$/;"	h
+10k+	static/stats-preview-card-component/solution/stats-preview-card.html	/^      <div class="brag"><h1>10k+<\/h1> <p>companies<\/p><\/div>$/;"	h
 12m+	layouts/_default/stats-preview-card-component.html	/^      <div class="brag"><h1>12m+<\/h1> <p>queries<\/p><\/div>$/;"	h
 12m+	public/stats-preview-card-component/index.html	/^      <div class="brag"><h1>12m+<\/h1> <p>queries<\/p><\/div>$/;"	h
-12m+	public/stats-preview-card-component/solution/index.html	/^      <div class="brag"><h1>12m+<\/h1> <p>queries<\/p><\/div>$/;"	h
-12m+	static/stats-preview-card-component/solution/index.html	/^      <div class="brag"><h1>12m+<\/h1> <p>queries<\/p><\/div>$/;"	h
+12m+	public/stats-preview-card-component/solution/stats-preview-card.html	/^      <div class="brag"><h1>12m+<\/h1> <p>queries<\/p><\/div>$/;"	h
+12m+	static/stats-preview-card-component/solution/stats-preview-card.html	/^      <div class="brag"><h1>12m+<\/h1> <p>queries<\/p><\/div>$/;"	h
 314	layouts/_default/stats-preview-card-component.html	/^      <div class="brag"><h1>314 <\/h1> <p>templates<\/p><\/div>$/;"	h
 314	public/stats-preview-card-component/index.html	/^      <div class="brag"><h1>314 <\/h1> <p>templates<\/p><\/div>$/;"	h
-314	public/stats-preview-card-component/solution/index.html	/^      <div class="brag"><h1>314 <\/h1> <p>templates<\/p><\/div>$/;"	h
-314	static/stats-preview-card-component/solution/index.html	/^      <div class="brag"><h1>314 <\/h1> <p>templates<\/p><\/div>$/;"	h
+314	public/stats-preview-card-component/solution/stats-preview-card.html	/^      <div class="brag"><h1>314 <\/h1> <p>templates<\/p><\/div>$/;"	h
+314	static/stats-preview-card-component/solution/stats-preview-card.html	/^      <div class="brag"><h1>314 <\/h1> <p>templates<\/p><\/div>$/;"	h
 803K	layouts/_default/profile-card-component.html	/^        <h1>803K<\/h1>$/;"	h
 803K	public/profile-card-component/index.html	/^        <h1>803K<\/h1>$/;"	h
-803K	public/profile-card-component/solution/index.html	/^        <h1>803K<\/h1>$/;"	h
-803K	static/profile-card-component/solution/index.html	/^        <h1>803K<\/h1>$/;"	h
+803K	public/profile-card-component/solution/profile-card-component.html	/^        <h1>803K<\/h1>$/;"	h
+803K	static/profile-card-component/solution/profile-card-component.html	/^        <h1>803K<\/h1>$/;"	h
 80K	layouts/_default/profile-card-component.html	/^        <h1>80K<\/h1>$/;"	h
 80K	public/profile-card-component/index.html	/^        <h1>80K<\/h1>$/;"	h
-80K	public/profile-card-component/solution/index.html	/^        <h1>80K<\/h1>$/;"	h
-80K	static/profile-card-component/solution/index.html	/^        <h1>80K<\/h1>$/;"	h
+80K	public/profile-card-component/solution/profile-card-component.html	/^        <h1>80K<\/h1>$/;"	h
+80K	static/profile-card-component/solution/profile-card-component.html	/^        <h1>80K<\/h1>$/;"	h
 :root	public/3-column-preview-card-component/style.css	/^:root {$/;"	s
 :root	public/order-summary-component/style.css	/^:root {$/;"	s
 :root	public/profile-card-component/style.css	/^:root {$/;"	s
@@ -173,8 +173,8 @@ Frontend Mentor - Stats preview card component	exercises/stats-preview-card-comp
 Frontend Mentor - Stats preview card component solution	exercises/stats-preview-card-component-main/README-template.md	/^# Frontend Mentor - Stats preview card component solution$/;"	c
 Get insights that help your business grow.	layouts/_default/stats-preview-card-component.html	/^    <h1>Get <b>insights <\/b> that help your business grow.<\/h1>$/;"	h
 Get insights that help your business grow.	public/stats-preview-card-component/index.html	/^    <h1>Get <b>insights <\/b> that help your business grow.<\/h1>$/;"	h
-Get insights that help your business grow.	public/stats-preview-card-component/solution/index.html	/^    <h1>Get <b>insights <\/b> that help your business grow.<\/h1>$/;"	h
-Get insights that help your business grow.	static/stats-preview-card-component/solution/index.html	/^    <h1>Get <b>insights <\/b> that help your business grow.<\/h1>$/;"	h
+Get insights that help your business grow.	public/stats-preview-card-component/solution/stats-preview-card.html	/^    <h1>Get <b>insights <\/b> that help your business grow.<\/h1>$/;"	h
+Get insights that help your business grow.	static/stats-preview-card-component/solution/stats-preview-card.html	/^    <h1>Get <b>insights <\/b> that help your business grow.<\/h1>$/;"	h
 Got feedback for us?	exercises/finished/3-column-preview-card-component/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Got feedback for us?	exercises/finished/order-summary-component/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Order summary card
 Got feedback for us?	exercises/profile-card-component-main/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Profile card component
@@ -189,8 +189,8 @@ Links	exercises/profile-card-component-main/README-template.md	/^### Links$/;"	S
 Links	exercises/stats-preview-card-component-main/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Stats preview card component solution""Overview
 Luxury	layouts/_default/3-column-preview-card-component.html	/^    <h1>Luxury<\/h1>$/;"	h
 Luxury	public/3-column-preview-card-component/index.html	/^    <h1>Luxury<\/h1>$/;"	h
-Luxury	public/3-column-preview-card-component/solution/index.html	/^    <h1>Luxury<\/h1>$/;"	h
-Luxury	static/3-column-preview-card-component/solution/index.html	/^    <h1>Luxury<\/h1>$/;"	h
+Luxury	public/3-column-preview-card-component/solution/3-column-preview-card.html	/^    <h1>Luxury<\/h1>$/;"	h
+Luxury	static/3-column-preview-card-component/solution/3-column-preview-card.html	/^    <h1>Luxury<\/h1>$/;"	h
 MediaType	resources/_gen/assets/scss/3-column-preview-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"3-column-preview-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	s
 MediaType	resources/_gen/assets/scss/order-summary-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"order-summary-component\/style.css","MediaType":"text\/css","Data":{}}/;"	s
 MediaType	resources/_gen/assets/scss/profile-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"profile-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	s
@@ -205,8 +205,8 @@ Neutral	exercises/profile-card-component-main/style-guide.md	/^### Neutral$/;"	S
 Neutral	exercises/stats-preview-card-component-main/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
 Order Summary	layouts/_default/order-summary-component.html	/^      <h1>Order Summary<\/h1>$/;"	h
 Order Summary	public/order-summary-component/index.html	/^      <h1>Order Summary<\/h1>$/;"	h
-Order Summary	public/order-summary-component/solution/index.html	/^      <h1>Order Summary<\/h1>$/;"	h
-Order Summary	static/order-summary-component/solution/index.html	/^      <h1>Order Summary<\/h1>$/;"	h
+Order Summary	public/order-summary-component/solution/order-summary-component.html	/^      <h1>Order Summary<\/h1>$/;"	h
+Order Summary	static/order-summary-component/solution/order-summary-component.html	/^      <h1>Order Summary<\/h1>$/;"	h
 Overview	exercises/finished/3-column-preview-card-component/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - 3-column preview card component solution
 Overview	exercises/finished/order-summary-component/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Order summary card solution
 Overview	exercises/profile-card-component-main/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Profile card component solution
@@ -217,16 +217,16 @@ Primary	exercises/profile-card-component-main/style-guide.md	/^### Primary$/;"	S
 Primary	exercises/stats-preview-card-component-main/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
 SUVs	layouts/_default/3-column-preview-card-component.html	/^    <h1>SUVs<\/h1>$/;"	h
 SUVs	public/3-column-preview-card-component/index.html	/^    <h1>SUVs<\/h1>$/;"	h
-SUVs	public/3-column-preview-card-component/solution/index.html	/^    <h1>SUVs<\/h1>$/;"	h
-SUVs	static/3-column-preview-card-component/solution/index.html	/^    <h1>SUVs<\/h1>$/;"	h
+SUVs	public/3-column-preview-card-component/solution/3-column-preview-card.html	/^    <h1>SUVs<\/h1>$/;"	h
+SUVs	static/3-column-preview-card-component/solution/3-column-preview-card.html	/^    <h1>SUVs<\/h1>$/;"	h
 Screenshot	exercises/finished/3-column-preview-card-component/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - 3-column preview card component solution""Overview
 Screenshot	exercises/finished/order-summary-component/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
 Screenshot	exercises/profile-card-component-main/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Profile card component solution""Overview
 Screenshot	exercises/stats-preview-card-component-main/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Stats preview card component solution""Overview
 Sedans	layouts/_default/3-column-preview-card-component.html	/^    <h1>Sedans<\/h1>$/;"	h
 Sedans	public/3-column-preview-card-component/index.html	/^    <h1>Sedans<\/h1>$/;"	h
-Sedans	public/3-column-preview-card-component/solution/index.html	/^    <h1>Sedans<\/h1>$/;"	h
-Sedans	static/3-column-preview-card-component/solution/index.html	/^    <h1>Sedans<\/h1>$/;"	h
+Sedans	public/3-column-preview-card-component/solution/3-column-preview-card.html	/^    <h1>Sedans<\/h1>$/;"	h
+Sedans	static/3-column-preview-card-component/solution/3-column-preview-card.html	/^    <h1>Sedans<\/h1>$/;"	h
 Sharing your solution	exercises/finished/3-column-preview-card-component/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Sharing your solution	exercises/finished/order-summary-component/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Order summary card
 Sharing your solution	exercises/profile-card-component-main/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Profile card component
@@ -262,8 +262,8 @@ Useful resources	exercises/profile-card-component-main/README-template.md	/^### 
 Useful resources	exercises/stats-preview-card-component-main/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Stats preview card component solution""My process
 Victor Crest	layouts/_default/profile-card-component.html	/^      <h1>Victor Crest<\/h1>$/;"	h
 Victor Crest	public/profile-card-component/index.html	/^      <h1>Victor Crest<\/h1>$/;"	h
-Victor Crest	public/profile-card-component/solution/index.html	/^      <h1>Victor Crest<\/h1>$/;"	h
-Victor Crest	static/profile-card-component/solution/index.html	/^      <h1>Victor Crest<\/h1>$/;"	h
+Victor Crest	public/profile-card-component/solution/profile-card-component.html	/^      <h1>Victor Crest<\/h1>$/;"	h
+Victor Crest	static/profile-card-component/solution/profile-card-component.html	/^      <h1>Victor Crest<\/h1>$/;"	h
 Welcome! 👋	exercises/finished/3-column-preview-card-component/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Welcome! 👋	exercises/finished/order-summary-component/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Order summary card
 Welcome! 👋	exercises/profile-card-component-main/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Profile card component

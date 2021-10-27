@@ -58,8 +58,11 @@ body {
 	.order-details {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
-		align-items: center;
+		align-items: baseline;
 		img {
+			position:relative;
+			top: -3px;
+			left: -10px;
 			justify-self: right;
 		}
 		div {
