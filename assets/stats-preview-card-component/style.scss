@@ -49,9 +49,12 @@ body {
 			}
 		}
 	}
-	/*
-	@media screen and (max-width: 400px) {
-		grid-template-columns: 1fr;
+}
+
+@media screen and (max-width: 400px) {
+	.blurbgrid {
+		display: flex;
+		flex-direction: column;
 		.img-placeholder {
 			background-image: url("images/image-header-mobile.jpg");
 			border-radius: 2em 2em 0em 0em;
@@ -60,5 +63,4 @@ body {
 			flex-direction: column;
 		}
 	}
-	*/
 }

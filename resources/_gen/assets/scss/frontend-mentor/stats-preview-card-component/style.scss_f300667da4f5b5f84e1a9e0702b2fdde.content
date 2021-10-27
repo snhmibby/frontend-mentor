@@ -15,19 +15,7 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
   background-color: var(--card-bg);
-  border-radius: 2em 2em 2em 2em;
-  /*
-	@media screen and (max-width: 400px) {
-		grid-template-columns: 1fr;
-		.img-placeholder {
-			background-image: url("images/image-header-mobile.jpg");
-			border-radius: 2em 2em 0em 0em;
-		}
-		.braglist {
-			flex-direction: column;
-		}
-	}
-	*/ }
+  border-radius: 2em 2em 2em 2em; }
   .blurbgrid .img-placeholder {
     background-image: url("images/image-header-desktop.jpg");
     background-blend-mode: multiply;
@@ -49,3 +37,13 @@ body {
       justify-content: space-between; }
       .blurbgrid .blurb .braglist .brag h1 {
         color: var(--stats-heading); }
+
+@media screen and (max-width: 400px) {
+  .blurbgrid {
+    display: flex;
+    flex-direction: column; }
+    .blurbgrid .img-placeholder {
+      background-image: url("images/image-header-mobile.jpg");
+      border-radius: 2em 2em 0em 0em; }
+    .blurbgrid .braglist {
+      flex-direction: column; } }

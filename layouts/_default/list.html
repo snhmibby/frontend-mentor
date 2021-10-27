@@ -3,7 +3,9 @@
 		<h1>{{ .Title }}</h1>
 		{{ .Content }}
 	</article>
-	{{ range .Pages }}
-		<a href={{.Permalink}}>{{.Title}}</a>
-	{{ end }}
+	<ul>
+		{{ range .Pages }}
+			<li><a href={{.Permalink}}>{{.Title}}</a></li>
+		{{ end }}
+	</ul>
 {{ end }}
