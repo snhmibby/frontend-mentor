@@ -48,8 +48,11 @@ body {
   .order-summary .order-details {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    align-items: center; }
+    align-items: baseline; }
     .order-summary .order-details img {
+      position: relative;
+      top: -3px;
+      left: -10px;
       justify-self: right; }
     .order-summary .order-details div {
       display: flex;
