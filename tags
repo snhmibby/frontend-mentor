@@ -115,78 +115,78 @@
 :root	public/stats-preview-card-component/style.css	/^:root {$/;"	s
 Acknowledgments	exercises/finished/3-column-preview-card-component/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - 3-column preview card component solution
 Acknowledgments	exercises/finished/order-summary-component/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Order summary card solution
-Acknowledgments	exercises/profile-card-component-main/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Profile card component solution
-Acknowledgments	exercises/stats-preview-card-component-main/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
+Acknowledgments	exercises/finished/profile-card-component-main/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Profile card component solution
+Acknowledgments	exercises/finished/stats-preview-card-component-main/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
 Author	exercises/finished/3-column-preview-card-component/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - 3-column preview card component solution
 Author	exercises/finished/order-summary-component/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Order summary card solution
-Author	exercises/profile-card-component-main/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Profile card component solution
-Author	exercises/stats-preview-card-component-main/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
+Author	exercises/finished/profile-card-component-main/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Profile card component solution
+Author	exercises/finished/stats-preview-card-component-main/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
 Body Copy	exercises/finished/3-column-preview-card-component/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
 Body Copy	exercises/finished/order-summary-component/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
-Body Copy	exercises/profile-card-component-main/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
-Body Copy	exercises/stats-preview-card-component-main/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
+Body Copy	exercises/finished/profile-card-component-main/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
+Body Copy	exercises/finished/stats-preview-card-component-main/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
 Building your project	exercises/finished/3-column-preview-card-component/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Building your project	exercises/finished/order-summary-component/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Order summary card
-Building your project	exercises/profile-card-component-main/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Profile card component
-Building your project	exercises/stats-preview-card-component-main/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Stats preview card component
+Building your project	exercises/finished/profile-card-component-main/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Profile card component
+Building your project	exercises/finished/stats-preview-card-component-main/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Stats preview card component
 Built with	exercises/finished/3-column-preview-card-component/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - 3-column preview card component solution""My process
 Built with	exercises/finished/order-summary-component/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Order summary card solution""My process
-Built with	exercises/profile-card-component-main/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Profile card component solution""My process
-Built with	exercises/stats-preview-card-component-main/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Stats preview card component solution""My process
+Built with	exercises/finished/profile-card-component-main/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Profile card component solution""My process
+Built with	exercises/finished/stats-preview-card-component-main/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Stats preview card component solution""My process
 CSS practice website	public/index.html	/^		<h1>CSS practice website<\/h1>$/;"	h
 Categories	public/categories/index.html	/^		<h1>Categories<\/h1>$/;"	h
 Colors	exercises/finished/3-column-preview-card-component/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
 Colors	exercises/finished/order-summary-component/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
-Colors	exercises/profile-card-component-main/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
-Colors	exercises/stats-preview-card-component-main/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
+Colors	exercises/finished/profile-card-component-main/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
+Colors	exercises/finished/stats-preview-card-component-main/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
 Continued development	exercises/finished/3-column-preview-card-component/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - 3-column preview card component solution""My process
 Continued development	exercises/finished/order-summary-component/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Order summary card solution""My process
-Continued development	exercises/profile-card-component-main/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Profile card component solution""My process
-Continued development	exercises/stats-preview-card-component-main/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Stats preview card component solution""My process
+Continued development	exercises/finished/profile-card-component-main/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Profile card component solution""My process
+Continued development	exercises/finished/stats-preview-card-component-main/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Stats preview card component solution""My process
 Create a custom `README.md`	exercises/finished/3-column-preview-card-component/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Create a custom `README.md`	exercises/finished/order-summary-component/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Order summary card
-Create a custom `README.md`	exercises/profile-card-component-main/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Profile card component
-Create a custom `README.md`	exercises/stats-preview-card-component-main/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Stats preview card component
+Create a custom `README.md`	exercises/finished/profile-card-component-main/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Profile card component
+Create a custom `README.md`	exercises/finished/stats-preview-card-component-main/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Stats preview card component
 Data	resources/_gen/assets/scss/3-column-preview-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"3-column-preview-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	o
 Data	resources/_gen/assets/scss/order-summary-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"order-summary-component\/style.css","MediaType":"text\/css","Data":{}}/;"	o
 Data	resources/_gen/assets/scss/profile-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"profile-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	o
 Data	resources/_gen/assets/scss/stats-preview-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"stats-preview-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	o
 Deploying your project	exercises/finished/3-column-preview-card-component/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Deploying your project	exercises/finished/order-summary-component/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Order summary card
-Deploying your project	exercises/profile-card-component-main/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Profile card component
-Deploying your project	exercises/stats-preview-card-component-main/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Stats preview card component
+Deploying your project	exercises/finished/profile-card-component-main/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Profile card component
+Deploying your project	exercises/finished/stats-preview-card-component-main/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Stats preview card component
 Font	exercises/finished/3-column-preview-card-component/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
 Font	exercises/finished/order-summary-component/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
-Font	exercises/profile-card-component-main/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
-Font	exercises/stats-preview-card-component-main/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
+Font	exercises/finished/profile-card-component-main/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
+Font	exercises/finished/stats-preview-card-component-main/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
 Front-end Style Guide	exercises/finished/3-column-preview-card-component/style-guide.md	/^# Front-end Style Guide$/;"	c
 Front-end Style Guide	exercises/finished/order-summary-component/style-guide.md	/^# Front-end Style Guide$/;"	c
-Front-end Style Guide	exercises/profile-card-component-main/style-guide.md	/^# Front-end Style Guide$/;"	c
-Front-end Style Guide	exercises/stats-preview-card-component-main/style-guide.md	/^# Front-end Style Guide$/;"	c
+Front-end Style Guide	exercises/finished/profile-card-component-main/style-guide.md	/^# Front-end Style Guide$/;"	c
+Front-end Style Guide	exercises/finished/stats-preview-card-component-main/style-guide.md	/^# Front-end Style Guide$/;"	c
 Frontend Mentor - 3-column preview card component	exercises/finished/3-column-preview-card-component/README.md	/^# Frontend Mentor - 3-column preview card component$/;"	c
 Frontend Mentor - 3-column preview card component solution	exercises/finished/3-column-preview-card-component/README-template.md	/^# Frontend Mentor - 3-column preview card component solution$/;"	c
 Frontend Mentor - Order summary card	exercises/finished/order-summary-component/README.md	/^# Frontend Mentor - Order summary card$/;"	c
 Frontend Mentor - Order summary card solution	exercises/finished/order-summary-component/README-template.md	/^# Frontend Mentor - Order summary card solution$/;"	c
-Frontend Mentor - Profile card component	exercises/profile-card-component-main/README.md	/^# Frontend Mentor - Profile card component$/;"	c
-Frontend Mentor - Profile card component solution	exercises/profile-card-component-main/README-template.md	/^# Frontend Mentor - Profile card component solution$/;"	c
-Frontend Mentor - Stats preview card component	exercises/stats-preview-card-component-main/README.md	/^# Frontend Mentor - Stats preview card component$/;"	c
-Frontend Mentor - Stats preview card component solution	exercises/stats-preview-card-component-main/README-template.md	/^# Frontend Mentor - Stats preview card component solution$/;"	c
+Frontend Mentor - Profile card component	exercises/finished/profile-card-component-main/README.md	/^# Frontend Mentor - Profile card component$/;"	c
+Frontend Mentor - Profile card component solution	exercises/finished/profile-card-component-main/README-template.md	/^# Frontend Mentor - Profile card component solution$/;"	c
+Frontend Mentor - Stats preview card component	exercises/finished/stats-preview-card-component-main/README.md	/^# Frontend Mentor - Stats preview card component$/;"	c
+Frontend Mentor - Stats preview card component solution	exercises/finished/stats-preview-card-component-main/README-template.md	/^# Frontend Mentor - Stats preview card component solution$/;"	c
 Get insights that help your business grow.	layouts/_default/stats-preview-card-component.html	/^    <h1>Get <b>insights <\/b> that help your business grow.<\/h1>$/;"	h
 Get insights that help your business grow.	public/stats-preview-card-component/index.html	/^    <h1>Get <b>insights <\/b> that help your business grow.<\/h1>$/;"	h
 Get insights that help your business grow.	public/stats-preview-card-component/solution/stats-preview-card.html	/^    <h1>Get <b>insights <\/b> that help your business grow.<\/h1>$/;"	h
 Get insights that help your business grow.	static/stats-preview-card-component/solution/stats-preview-card.html	/^    <h1>Get <b>insights <\/b> that help your business grow.<\/h1>$/;"	h
 Got feedback for us?	exercises/finished/3-column-preview-card-component/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Got feedback for us?	exercises/finished/order-summary-component/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Order summary card
-Got feedback for us?	exercises/profile-card-component-main/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Profile card component
-Got feedback for us?	exercises/stats-preview-card-component-main/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Stats preview card component
+Got feedback for us?	exercises/finished/profile-card-component-main/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Profile card component
+Got feedback for us?	exercises/finished/stats-preview-card-component-main/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Stats preview card component
 Layout	exercises/finished/3-column-preview-card-component/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
 Layout	exercises/finished/order-summary-component/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
-Layout	exercises/profile-card-component-main/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
-Layout	exercises/stats-preview-card-component-main/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
+Layout	exercises/finished/profile-card-component-main/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
+Layout	exercises/finished/stats-preview-card-component-main/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
 Links	exercises/finished/3-column-preview-card-component/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - 3-column preview card component solution""Overview
 Links	exercises/finished/order-summary-component/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
-Links	exercises/profile-card-component-main/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Profile card component solution""Overview
-Links	exercises/stats-preview-card-component-main/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Stats preview card component solution""Overview
+Links	exercises/finished/profile-card-component-main/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Profile card component solution""Overview
+Links	exercises/finished/stats-preview-card-component-main/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Stats preview card component solution""Overview
 Luxury	layouts/_default/3-column-preview-card-component.html	/^    <h1>Luxury<\/h1>$/;"	h
 Luxury	public/3-column-preview-card-component/index.html	/^    <h1>Luxury<\/h1>$/;"	h
 Luxury	public/3-column-preview-card-component/solution/3-column-preview-card.html	/^    <h1>Luxury<\/h1>$/;"	h
@@ -197,48 +197,48 @@ MediaType	resources/_gen/assets/scss/profile-card-component/style.scss_f300667da
 MediaType	resources/_gen/assets/scss/stats-preview-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"stats-preview-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	s
 My process	exercises/finished/3-column-preview-card-component/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - 3-column preview card component solution
 My process	exercises/finished/order-summary-component/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Order summary card solution
-My process	exercises/profile-card-component-main/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Profile card component solution
-My process	exercises/stats-preview-card-component-main/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
+My process	exercises/finished/profile-card-component-main/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Profile card component solution
+My process	exercises/finished/stats-preview-card-component-main/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
 Neutral	exercises/finished/3-column-preview-card-component/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
 Neutral	exercises/finished/order-summary-component/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
-Neutral	exercises/profile-card-component-main/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
-Neutral	exercises/stats-preview-card-component-main/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
+Neutral	exercises/finished/profile-card-component-main/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
+Neutral	exercises/finished/stats-preview-card-component-main/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
 Order Summary	layouts/_default/order-summary-component.html	/^      <h1>Order Summary<\/h1>$/;"	h
 Order Summary	public/order-summary-component/index.html	/^      <h1>Order Summary<\/h1>$/;"	h
 Order Summary	public/order-summary-component/solution/order-summary-component.html	/^      <h1>Order Summary<\/h1>$/;"	h
 Order Summary	static/order-summary-component/solution/order-summary-component.html	/^      <h1>Order Summary<\/h1>$/;"	h
 Overview	exercises/finished/3-column-preview-card-component/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - 3-column preview card component solution
 Overview	exercises/finished/order-summary-component/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Order summary card solution
-Overview	exercises/profile-card-component-main/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Profile card component solution
-Overview	exercises/stats-preview-card-component-main/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
+Overview	exercises/finished/profile-card-component-main/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Profile card component solution
+Overview	exercises/finished/stats-preview-card-component-main/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
 Primary	exercises/finished/3-column-preview-card-component/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
 Primary	exercises/finished/order-summary-component/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
-Primary	exercises/profile-card-component-main/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
-Primary	exercises/stats-preview-card-component-main/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
+Primary	exercises/finished/profile-card-component-main/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
+Primary	exercises/finished/stats-preview-card-component-main/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
 SUVs	layouts/_default/3-column-preview-card-component.html	/^    <h1>SUVs<\/h1>$/;"	h
 SUVs	public/3-column-preview-card-component/index.html	/^    <h1>SUVs<\/h1>$/;"	h
 SUVs	public/3-column-preview-card-component/solution/3-column-preview-card.html	/^    <h1>SUVs<\/h1>$/;"	h
 SUVs	static/3-column-preview-card-component/solution/3-column-preview-card.html	/^    <h1>SUVs<\/h1>$/;"	h
 Screenshot	exercises/finished/3-column-preview-card-component/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - 3-column preview card component solution""Overview
 Screenshot	exercises/finished/order-summary-component/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
-Screenshot	exercises/profile-card-component-main/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Profile card component solution""Overview
-Screenshot	exercises/stats-preview-card-component-main/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Stats preview card component solution""Overview
+Screenshot	exercises/finished/profile-card-component-main/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Profile card component solution""Overview
+Screenshot	exercises/finished/stats-preview-card-component-main/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Stats preview card component solution""Overview
 Sedans	layouts/_default/3-column-preview-card-component.html	/^    <h1>Sedans<\/h1>$/;"	h
 Sedans	public/3-column-preview-card-component/index.html	/^    <h1>Sedans<\/h1>$/;"	h
 Sedans	public/3-column-preview-card-component/solution/3-column-preview-card.html	/^    <h1>Sedans<\/h1>$/;"	h
 Sedans	static/3-column-preview-card-component/solution/3-column-preview-card.html	/^    <h1>Sedans<\/h1>$/;"	h
 Sharing your solution	exercises/finished/3-column-preview-card-component/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Sharing your solution	exercises/finished/order-summary-component/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Order summary card
-Sharing your solution	exercises/profile-card-component-main/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Profile card component
-Sharing your solution	exercises/stats-preview-card-component-main/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Stats preview card component
+Sharing your solution	exercises/finished/profile-card-component-main/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Profile card component
+Sharing your solution	exercises/finished/stats-preview-card-component-main/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Stats preview card component
 Submitting your solution	exercises/finished/3-column-preview-card-component/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Submitting your solution	exercises/finished/order-summary-component/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Order summary card
-Submitting your solution	exercises/profile-card-component-main/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Profile card component
-Submitting your solution	exercises/stats-preview-card-component-main/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Stats preview card component
+Submitting your solution	exercises/finished/profile-card-component-main/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Profile card component
+Submitting your solution	exercises/finished/stats-preview-card-component-main/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Stats preview card component
 Table of contents	exercises/finished/3-column-preview-card-component/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - 3-column preview card component solution
 Table of contents	exercises/finished/order-summary-component/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Order summary card solution
-Table of contents	exercises/profile-card-component-main/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Profile card component solution
-Table of contents	exercises/stats-preview-card-component-main/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
+Table of contents	exercises/finished/profile-card-component-main/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Profile card component solution
+Table of contents	exercises/finished/stats-preview-card-component-main/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
 Tags	public/tags/index.html	/^		<h1>Tags<\/h1>$/;"	h
 Target	resources/_gen/assets/scss/3-column-preview-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"3-column-preview-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	s
 Target	resources/_gen/assets/scss/order-summary-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"order-summary-component\/style.css","MediaType":"text\/css","Data":{}}/;"	s
@@ -248,42 +248,42 @@ The challenge	exercises/finished/3-column-preview-card-component/README-template
 The challenge	exercises/finished/3-column-preview-card-component/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 The challenge	exercises/finished/order-summary-component/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
 The challenge	exercises/finished/order-summary-component/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Order summary card
-The challenge	exercises/profile-card-component-main/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - Profile card component solution""Overview
-The challenge	exercises/profile-card-component-main/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Profile card component
-The challenge	exercises/stats-preview-card-component-main/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - Stats preview card component solution""Overview
-The challenge	exercises/stats-preview-card-component-main/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Stats preview card component
+The challenge	exercises/finished/profile-card-component-main/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - Profile card component solution""Overview
+The challenge	exercises/finished/profile-card-component-main/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Profile card component
+The challenge	exercises/finished/stats-preview-card-component-main/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - Stats preview card component solution""Overview
+The challenge	exercises/finished/stats-preview-card-component-main/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Stats preview card component
 Typography	exercises/finished/3-column-preview-card-component/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
 Typography	exercises/finished/order-summary-component/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
-Typography	exercises/profile-card-component-main/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
-Typography	exercises/stats-preview-card-component-main/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
+Typography	exercises/finished/profile-card-component-main/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
+Typography	exercises/finished/stats-preview-card-component-main/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
 Useful resources	exercises/finished/3-column-preview-card-component/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - 3-column preview card component solution""My process
 Useful resources	exercises/finished/order-summary-component/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Order summary card solution""My process
-Useful resources	exercises/profile-card-component-main/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Profile card component solution""My process
-Useful resources	exercises/stats-preview-card-component-main/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Stats preview card component solution""My process
+Useful resources	exercises/finished/profile-card-component-main/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Profile card component solution""My process
+Useful resources	exercises/finished/stats-preview-card-component-main/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Stats preview card component solution""My process
 Victor Crest	layouts/_default/profile-card-component.html	/^      <h1>Victor Crest<\/h1>$/;"	h
 Victor Crest	public/profile-card-component/index.html	/^      <h1>Victor Crest<\/h1>$/;"	h
 Victor Crest	public/profile-card-component/solution/profile-card-component.html	/^      <h1>Victor Crest<\/h1>$/;"	h
 Victor Crest	static/profile-card-component/solution/profile-card-component.html	/^      <h1>Victor Crest<\/h1>$/;"	h
 Welcome! 👋	exercises/finished/3-column-preview-card-component/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Welcome! 👋	exercises/finished/order-summary-component/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Order summary card
-Welcome! 👋	exercises/profile-card-component-main/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Profile card component
-Welcome! 👋	exercises/stats-preview-card-component-main/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Stats preview card component
+Welcome! 👋	exercises/finished/profile-card-component-main/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Profile card component
+Welcome! 👋	exercises/finished/stats-preview-card-component-main/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Stats preview card component
 What I learned	exercises/finished/3-column-preview-card-component/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - 3-column preview card component solution""My process
 What I learned	exercises/finished/order-summary-component/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Order summary card solution""My process
-What I learned	exercises/profile-card-component-main/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Profile card component solution""My process
-What I learned	exercises/stats-preview-card-component-main/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Stats preview card component solution""My process
+What I learned	exercises/finished/profile-card-component-main/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Profile card component solution""My process
+What I learned	exercises/finished/stats-preview-card-component-main/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Stats preview card component solution""My process
 Where to find everything	exercises/finished/3-column-preview-card-component/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Where to find everything	exercises/finished/order-summary-component/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Order summary card
-Where to find everything	exercises/profile-card-component-main/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Profile card component
-Where to find everything	exercises/stats-preview-card-component-main/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Stats preview card component
+Where to find everything	exercises/finished/profile-card-component-main/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Profile card component
+Where to find everything	exercises/finished/stats-preview-card-component-main/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Stats preview card component
 a	exercises/finished/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	d
 a	exercises/finished/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
-a	exercises/profile-card-component-main/images/bg-pattern-bottom.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	d
-a	exercises/profile-card-component-main/images/bg-pattern-bottom.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	i
-a	exercises/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	d
-a	exercises/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
-a	exercises/profile-card-component-main/images/bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	d
-a	exercises/profile-card-component-main/images/bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	i
+a	exercises/finished/profile-card-component-main/images/bg-pattern-bottom.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	d
+a	exercises/finished/profile-card-component-main/images/bg-pattern-bottom.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	i
+a	exercises/finished/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	d
+a	exercises/finished/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
+a	exercises/finished/profile-card-component-main/images/bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	d
+a	exercises/finished/profile-card-component-main/images/bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	i
 a	public/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	d
 a	public/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
 a	public/profile-card-component/images/bg-pattern-bottom.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	d
@@ -304,7 +304,7 @@ atom	public/categories/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w
 atom	public/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
 atom	public/tags/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
 b	exercises/finished/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
-b	exercises/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
+b	exercises/finished/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
 b	public/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
 b	public/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
 b	static/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
@@ -314,14 +314,14 @@ body	public/order-summary-component/style.css	/^body {$/;"	s
 body	public/profile-card-component/style.css	/^body {$/;"	s
 body	public/stats-preview-card-component/style.css	/^body {$/;"	s
 button	public/3-column-preview-card-component/style.css	/^button,$/;"	s
-c	exercises/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	d
-c	exercises/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
+c	exercises/finished/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	d
+c	exercises/finished/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
 c	public/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	d
 c	public/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
 c	static/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	d
 c	static/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
-d	exercises/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	d
-d	exercises/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
+d	exercises/finished/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	d
+d	exercises/finished/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
 d	public/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	d
 d	public/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
 d	static/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	d
@@ -343,19 +343,19 @@ layout: {{ .Name }}	archetypes/default.md	/^layout: {{ .Name }}$/;"	s
 main	public/3-column-preview-card-component/style.css	/^main {$/;"	s
 ns164b4fe60101	static/3-column-preview-card-component/images/icon-sedans.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 ns16f215aa0101	static/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/2000/svg
-ns1c8267d10101	exercises/profile-card-component-main/images/bg-pattern-bottom.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	n	uri:http://www.w3.org/2000/svg
+ns1f84d16a0101	exercises/finished/profile-card-component-main/images/bg-pattern-bottom.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	n	uri:http://www.w3.org/2000/svg
 ns204dbb010101	public/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/2000/svg
-ns3889e2560101	exercises/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	n	uri:http://www.w3.org/2000/svg
 ns3b89f3e10101	static/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	n	uri:http://www.w3.org/2000/svg
 ns3dac72ce0101	public/order-summary-component/images/pattern-background-desktop.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="1440" height="437"><path fill="#D6E1FF" fill-/;"	n	uri:http://www.w3.org/2000/svg
 ns4ecfdb970101	static/order-summary-component/images/pattern-background-desktop.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="1440" height="437"><path fill="#D6E1FF" fill-/;"	n	uri:http://www.w3.org/2000/svg
 ns566d1cf80101	exercises/finished/order-summary-component/images/icon-music.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="48" height="48"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
+ns588311af0101	exercises/finished/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	n	uri:http://www.w3.org/2000/svg
 ns6c8ae40c0101	public/order-summary-component/images/pattern-background-mobile.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="375" height="194"><path fill="#D6E1FF" fill-r/;"	n	uri:http://www.w3.org/2000/svg
 ns6d0fd7b50101	static/order-summary-component/images/pattern-background-mobile.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="375" height="194"><path fill="#D6E1FF" fill-r/;"	n	uri:http://www.w3.org/2000/svg
 ns705935650101	public/sitemap.xml	/^  xmlns:xhtml="http:\/\/www.w3.org\/1999\/xhtml">$/;"	n	uri:http://www.sitemaps.org/schemas/sitemap/0.9
 ns76f6da130101	exercises/finished/order-summary-component/images/pattern-background-desktop.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="1440" height="437"><path fill="#D6E1FF" fill-/;"	n	uri:http://www.w3.org/2000/svg
+ns8d47a2480101	exercises/finished/profile-card-component-main/images/bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	n	uri:http://www.w3.org/2000/svg
 ns931555580101	public/3-column-preview-card-component/images/icon-luxury.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
-ns9bd37a0f0101	exercises/profile-card-component-main/images/bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	n	uri:http://www.w3.org/2000/svg
 ns9cd2f6b10101	exercises/finished/order-summary-component/images/pattern-background-mobile.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="375" height="194"><path fill="#D6E1FF" fill-r/;"	n	uri:http://www.w3.org/2000/svg
 nsa4c1903d0101	exercises/finished/3-column-preview-card-component/images/icon-luxury.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 nsa801ce750101	exercises/finished/3-column-preview-card-component/images/icon-suvs.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
@@ -377,7 +377,7 @@ p	public/profile-card-component/style.css	/^p, h1 {$/;"	s
 usage	exercises/install-challenge.sh	/^usage() {$/;"	f
 xhtml	public/sitemap.xml	/^  xmlns:xhtml="http:\/\/www.w3.org\/1999\/xhtml">$/;"	n	uri:http://www.w3.org/1999/xhtml
 xlink	exercises/finished/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/1999/xlink
-xlink	exercises/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	exercises/finished/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	n	uri:http://www.w3.org/1999/xlink
 xlink	public/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/1999/xlink
 xlink	public/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	n	uri:http://www.w3.org/1999/xlink
 xlink	static/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/1999/xlink
