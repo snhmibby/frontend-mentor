@@ -1,7 +1,7 @@
 A Hugo site for displaying my frontend-mentor challenge solutions.
-Download a challenge zip and place it in challenges/ then run ./challenge.sh install 'challenge-name'
+Download a challenge zip and place it in exercises/ then cd exercises && ./install.sh 'challenge-name'.
 
-And it will:
+This will:
 - unzip the challenge
 - create the following infrastructure
   - layouts/partial/$challenge.html (full html + template tags around !! TODO: should extract body)
