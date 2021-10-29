@@ -19,6 +19,7 @@
 .blurbgrid	public/stats-preview-card-component/solution/style.scss	/^.blurbgrid {$/;"	c
 .blurbgrid	public/stats-preview-card-component/style.css	/^.blurbgrid {$/;"	c
 .blurbgrid	static/four-card-feature-section-master/solution/style.scss	/^	.blurbgrid {$/;"	c
+.blurbgrid	static/four-card-feature-section-master/solution/style.scss	/^	body main .blurbgrid {$/;"	c
 .blurbgrid	static/stats-preview-card-component/solution/style.scss	/^	html .blurbgrid {$/;"	c
 .blurbgrid	static/stats-preview-card-component/solution/style.scss	/^.blurbgrid {$/;"	c
 .blurbgrid #builder	public/four-card-feature-section-master/style.css	/^    .blurbgrid #builder {$/;"	i

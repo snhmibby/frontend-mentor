@@ -18,19 +18,22 @@ html {
 	font-size: 16px;
 }
 
+body {
+	padding: 3rem;
+}
+
 main {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	text-align: center;
-	padding: 4rem;
 
 	h1 {
 		font-weight: 200;
 		font-size: 44px;
 	}
 	h1+b {
-		font-size: 24px;
+		font-size: 44px;
 		font-weight: 600;
 	}
 
@@ -70,6 +73,9 @@ main {
 }
 
 @media (min-width: 500px) {
+	html body {
+		padding: 0px;
+	}
 	.blurbgrid {
 		grid-template-areas:
 			". b ."
