@@ -51,8 +51,10 @@ body {
 	}
 }
 
-@media screen and (max-width: 400px) {
-	.blurbgrid {
+/* TODO:
+ * can't get the background image to display right, responsively */
+@media screen and (max-width: 500px) {
+	html .blurbgrid {
 		display: flex;
 		flex-direction: column;
 		.img-placeholder {

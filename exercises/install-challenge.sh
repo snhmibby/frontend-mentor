@@ -12,17 +12,19 @@ fi
 
 
 challenge="$1"
-zip="$challenge-main.zip"
-
-if [ -e ../static/"$challenge" ]; then
-	echo "already installed?"
-	exit 1
-fi
+zip="$challenge.zip"
 
 #installed hugo content:
+hugodir="`pwd`/.." #assume script lives in hugo-site/exercises and is invoked from there
 html=layouts/_default/"$challenge.html"
 assets=assets/"$challenge/"
 content="$challenge.md"
+
+
+if [ -e "$hugodir/static/$challenge" ]; then
+	echo "already installed?"
+	#exit 1
+fi
 
 install() {
 	# if solution exists then stop
@@ -39,38 +41,36 @@ install() {
 	7z x -y "$zip"
 
 	#make empty files for solution
-	mkdir -p ../"$assets"
-	touch ../$assets/{script.js,style.scss}
+	mkdir -p "$hugodir/$assets"
+	touch "$hugodir/$assets/"{script.js,style.scss}
 
-	cd "$challenge-main"
+	cd "$challenge"
 
 	#install static files
-	mkdir -p ../../static/"$challenge"
+	mkdir -p "$hugodir/static/$challenge"
 	for f in *; do
 		if [ -d "$f" ]; then
-			cp -R "$f" ../../static/"$challenge"
+			cp -R "$f" "$hugodir/static/$challenge"
 		fi
 	done
 
-	#install html
-	html=../../"$html"
-	echo '{{ define "main" }}' >> "$html"
-	echo "TODO REMOVE UNTIL BODY TAGS" >> "$html"
-	cat index.html >> "$html"
-	echo '{{ end }}' >> "$html"
+	#install index.html
+	tmphtml="$hugodir/$html"
+	echo '{{ define "main" }}' > "$tmphtml"
+	echo "TODO REMOVE UNTIL BODY TAGS" >> "$tmphtml"
+	cat index.html >> "$tmphtml"
+	echo '{{ end }}' >> "$tmphtml"
 
 	#make hugo content
-	cd ../..
-	hugo new "$content"
+	cd $hugodir && hugo new "$content"
 }
 
 install
-solution
 
 #make a directory to hold symlinks to all related files
-solutionDir="static/$challenge/solution"
+solutionDir="$hugodir/static/$challenge/solution"
 mkdir -p $solutionDir
-ln -s "$assets"/* "$solutionDir"/.
-ln -s "$html" "$solutionDir"/"$challenge".html
+ln -s "$hugodir/$assets"/* "$solutionDir"/.
+ln -s "$hugodir/$html" "$solutionDir/$challenge".html
 
 
