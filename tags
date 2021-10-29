@@ -11,10 +11,11 @@
 .blurb	public/stats-preview-card-component/solution/style.scss	/^	.blurb {$/;"	c
 .blurb	static/stats-preview-card-component/solution/style.scss	/^	.blurb {$/;"	c
 .blurbgrid	assets/four-card-feature-section-master/style.scss	/^	.blurbgrid {$/;"	c
+.blurbgrid	assets/four-card-feature-section-master/style.scss	/^	body main .blurbgrid {$/;"	c
 .blurbgrid	assets/stats-preview-card-component/style.scss	/^	html .blurbgrid {$/;"	c
 .blurbgrid	assets/stats-preview-card-component/style.scss	/^.blurbgrid {$/;"	c
 .blurbgrid	public/four-card-feature-section-master/solution/style.scss	/^	.blurbgrid {$/;"	c
-.blurbgrid	public/four-card-feature-section-master/style.css	/^  .blurbgrid {$/;"	c
+.blurbgrid	public/four-card-feature-section-master/solution/style.scss	/^	body main .blurbgrid {$/;"	c
 .blurbgrid	public/stats-preview-card-component/solution/style.scss	/^	html .blurbgrid {$/;"	c
 .blurbgrid	public/stats-preview-card-component/solution/style.scss	/^.blurbgrid {$/;"	c
 .blurbgrid	public/stats-preview-card-component/style.css	/^.blurbgrid {$/;"	c
@@ -22,10 +23,6 @@
 .blurbgrid	static/four-card-feature-section-master/solution/style.scss	/^	body main .blurbgrid {$/;"	c
 .blurbgrid	static/stats-preview-card-component/solution/style.scss	/^	html .blurbgrid {$/;"	c
 .blurbgrid	static/stats-preview-card-component/solution/style.scss	/^.blurbgrid {$/;"	c
-.blurbgrid #builder	public/four-card-feature-section-master/style.css	/^    .blurbgrid #builder {$/;"	i
-.blurbgrid #calculator	public/four-card-feature-section-master/style.css	/^    .blurbgrid #calculator {$/;"	i
-.blurbgrid #karma	public/four-card-feature-section-master/style.css	/^    .blurbgrid #karma {$/;"	i
-.blurbgrid #supervisor	public/four-card-feature-section-master/style.css	/^    .blurbgrid #supervisor {$/;"	i
 .blurbgrid .blurb	public/stats-preview-card-component/style.css	/^  .blurbgrid .blurb {$/;"	c
 .blurbgrid .blurb .braglist	public/stats-preview-card-component/style.css	/^    .blurbgrid .blurb .braglist {$/;"	c
 .blurbgrid .blurb .braglist .brag h1	public/stats-preview-card-component/style.css	/^      .blurbgrid .blurb .braglist .brag h1 {$/;"	s
@@ -379,6 +376,11 @@ body	public/order-summary-component/style.css	/^body {$/;"	s
 body	public/profile-card-component/style.css	/^body {$/;"	s
 body	public/stats-preview-card-component/style.css	/^body {$/;"	s
 body main	public/3-column-preview-card-component/style.css	/^  body main {$/;"	s
+body main .blurbgrid	public/four-card-feature-section-master/style.css	/^  body main .blurbgrid {$/;"	c
+body main .blurbgrid #builder	public/four-card-feature-section-master/style.css	/^    body main .blurbgrid #builder {$/;"	i
+body main .blurbgrid #calculator	public/four-card-feature-section-master/style.css	/^    body main .blurbgrid #calculator {$/;"	i
+body main .blurbgrid #karma	public/four-card-feature-section-master/style.css	/^    body main .blurbgrid #karma {$/;"	i
+body main .blurbgrid #supervisor	public/four-card-feature-section-master/style.css	/^    body main .blurbgrid #supervisor {$/;"	i
 builder	assets/four-card-feature-section-master/style.scss	/^		#builder    { grid-area: b; }$/;"	i
 builder	layouts/_default/four-card-feature-section-master.html	/^    <section id="builder">$/;"	I
 builder	public/four-card-feature-section-master/index.html	/^    <section id="builder">$/;"	I
@@ -422,6 +424,7 @@ html .blurbgrid	public/stats-preview-card-component/style.css	/^  html .blurbgri
 html .blurbgrid .braglist	public/stats-preview-card-component/style.css	/^    html .blurbgrid .braglist {$/;"	c
 html .blurbgrid .img-placeholder	public/stats-preview-card-component/style.css	/^    html .blurbgrid .img-placeholder {$/;"	c
 html body	public/3-column-preview-card-component/style.css	/^  html body {$/;"	s
+html body	public/four-card-feature-section-master/style.css	/^  html body {$/;"	s
 install	exercises/install-challenge.sh	/^install() {$/;"	f
 karma	assets/four-card-feature-section-master/style.scss	/^			&#karma {$/;"	i
 karma	assets/four-card-feature-section-master/style.scss	/^		#karma      { grid-area: k; }$/;"	i
@@ -450,8 +453,8 @@ main .blurbgrid section#supervisor	public/four-card-feature-section-master/style
 main .car-display	public/3-column-preview-card-component/style.css	/^  main .car-display {$/;"	c
 main .car-display section:first-child	public/3-column-preview-card-component/style.css	/^    main .car-display section:first-child {$/;"	s
 main .car-display section:last-child	public/3-column-preview-card-component/style.css	/^    main .car-display section:last-child {$/;"	s
+main b	public/four-card-feature-section-master/style.css	/^  main b {$/;"	s
 main h1	public/four-card-feature-section-master/style.css	/^  main h1 {$/;"	s
-main h1 + b	public/four-card-feature-section-master/style.css	/^  main h1 + b {$/;"	s
 main p	public/four-card-feature-section-master/style.css	/^  main p {$/;"	s
 ns0f0a18200101	exercises/four-card-feature-section-master/images/icon-supervisor.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="64" height="64"><g fill="none"><path fill="#6/;"	n	uri:http://www.w3.org/2000/svg
 ns164b4fe60101	static/3-column-preview-card-component/images/icon-sedans.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
