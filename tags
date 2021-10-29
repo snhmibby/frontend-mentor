@@ -43,6 +43,7 @@
 .car-display	exercises/finished/3-column-preview-card-component/solution/style.scss	/^.car-display {$/;"	c
 .car-display	public/3-column-preview-card-component/solution/style.scss	/^.car-display {$/;"	c
 .car-display	public/3-column-preview-card-component/style.css	/^.car-display {$/;"	c
+.car-display	static/3-column-preview-card-component/solution/style.scss	/^	main .car-display {$/;"	c
 .car-display	static/3-column-preview-card-component/solution/style.scss	/^.car-display {$/;"	c
 .car-display section	public/3-column-preview-card-component/style.css	/^  .car-display section {$/;"	s
 .car-display section button	public/3-column-preview-card-component/style.css	/^    .car-display section button {$/;"	s
