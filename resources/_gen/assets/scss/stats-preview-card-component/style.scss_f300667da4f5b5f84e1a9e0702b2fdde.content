@@ -38,12 +38,14 @@ body {
       .blurbgrid .blurb .braglist .brag h1 {
         color: var(--stats-heading); }
 
-@media screen and (max-width: 400px) {
-  .blurbgrid {
+/* TODO:
+ * can't get the background image to display right, responsively */
+@media screen and (max-width: 500px) {
+  html .blurbgrid {
     display: flex;
     flex-direction: column; }
-    .blurbgrid .img-placeholder {
+    html .blurbgrid .img-placeholder {
       background-image: url("images/image-header-mobile.jpg");
       border-radius: 2em 2em 0em 0em; }
-    .blurbgrid .braglist {
+    html .blurbgrid .braglist {
       flex-direction: column; } }
