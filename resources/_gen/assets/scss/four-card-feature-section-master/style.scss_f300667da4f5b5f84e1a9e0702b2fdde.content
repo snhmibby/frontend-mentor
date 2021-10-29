@@ -14,12 +14,14 @@ html {
   font-family: 'Poppins', sans-serif;
   font-size: 16px; }
 
+body {
+  padding: 3rem; }
+
 main {
   display: flex;
   justify-content: center;
   align-items: center;
-  text-align: center;
-  padding: 4rem; }
+  text-align: center; }
   main h1 {
     font-weight: 200;
     font-size: 44px; }
@@ -52,6 +54,8 @@ main {
         border-color: var(--primary-blue); }
 
 @media (min-width: 500px) {
+  html body {
+    padding: 0px; }
   .blurbgrid {
     grid-template-areas: ". b ." "s b c" "s k c" ". k ."; }
     .blurbgrid #supervisor {
