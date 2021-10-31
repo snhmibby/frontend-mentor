@@ -10,7 +10,7 @@
 body {
 	background: var(--light);
 	font-size: 15px;
-	font-family: "Arial" 
+	font-family: "Arial";
 }
 
 h1,
@@ -20,7 +20,6 @@ p {
 }
 
 main {
-	margin: 100px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -29,6 +28,9 @@ main {
 .car-display {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
+	border-radius: var(--round);
+	overflow: hidden;
+
 	section {
 		background-color: var(--dark);
 		padding: 3rem;
@@ -43,14 +45,10 @@ main {
 
 		&:first-child {
 			background-color: var(--bright);
-			border-top-left-radius: var(--round);
-			border-bottom-left-radius: var(--round);
 			button { color: var(--bright); }
 		}
 		&:last-child {
 			background-color: var(--very-dark);
-			border-top-right-radius: var(--round);
-			border-bottom-right-radius: var(--round);
 			button { color: var(--very-dark); }
 		}
 
@@ -70,7 +68,7 @@ main {
 	}
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
 	body main {
 		margin: 0;
 	}

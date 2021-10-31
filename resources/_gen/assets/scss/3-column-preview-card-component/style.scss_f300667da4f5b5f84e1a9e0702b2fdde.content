@@ -17,14 +17,15 @@ p {
   color: var(--text-color); }
 
 main {
-  margin: 100px;
   display: flex;
   justify-content: center;
   align-items: center; }
 
 .car-display {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr; }
+  grid-template-columns: 1fr 1fr 1fr;
+  border-radius: var(--round);
+  overflow: hidden; }
   .car-display section {
     background-color: var(--dark);
     padding: 3rem;
@@ -34,15 +35,11 @@ main {
     .car-display section p {
       margin-bottom: 5rem; }
     .car-display section:first-child {
-      background-color: var(--bright);
-      border-top-left-radius: var(--round);
-      border-bottom-left-radius: var(--round); }
+      background-color: var(--bright); }
       .car-display section:first-child button {
         color: var(--bright); }
     .car-display section:last-child {
-      background-color: var(--very-dark);
-      border-top-right-radius: var(--round);
-      border-bottom-right-radius: var(--round); }
+      background-color: var(--very-dark); }
       .car-display section:last-child button {
         color: var(--very-dark); }
     .car-display section button {
@@ -57,7 +54,7 @@ main {
       .car-display section button:hover {
         cursor: pointer; }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
   body main {
     margin: 0; }
   html body {

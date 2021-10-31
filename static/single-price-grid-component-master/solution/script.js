@@ -1,0 +1,1 @@
+/home/jurjen/www/frontend-mentor/exercises/../assets/single-price-grid-component-master//script.js
