@@ -73,6 +73,8 @@
 .detail	assets/profile-card-component/style.scss	/^	.detail {$/;"	c
 .detail	public/profile-card-component/solution/style.scss	/^	.detail {$/;"	c
 .detail	static/profile-card-component/solution/style.scss	/^	.detail {$/;"	c
+.head	assets/social-proof-section-master/style.scss	/^		.head {$/;"	c
+.head	static/social-proof-section-master/solution/style.scss	/^		.head {$/;"	c
 .img-placeholder	assets/stats-preview-card-component/style.scss	/^		.img-placeholder {$/;"	c
 .img-placeholder	assets/stats-preview-card-component/style.scss	/^	.img-placeholder {$/;"	c
 .img-placeholder	public/stats-preview-card-component/solution/style.scss	/^		.img-placeholder {$/;"	c
@@ -88,6 +90,8 @@
 .intro	public/single-price-grid-component-master/solution/style.scss	/^	.intro {$/;"	c
 .intro	static/single-price-grid-component-master/solution/style.scss	/^		.intro { grid-area: i; }$/;"	c
 .intro	static/single-price-grid-component-master/solution/style.scss	/^	.intro {$/;"	c
+.name	assets/social-proof-section-master/style.scss	/^			.name {$/;"	c
+.name	static/social-proof-section-master/solution/style.scss	/^			.name {$/;"	c
 .order-details	assets/order-summary-component/style.scss	/^	.order-details {$/;"	c
 .order-details	public/order-summary-component/solution/style.scss	/^	.order-details {$/;"	c
 .order-details	static/order-summary-component/solution/style.scss	/^	.order-details {$/;"	c
@@ -104,16 +108,25 @@
 .order-summary button	public/order-summary-component/style.css	/^  .order-summary button {$/;"	s
 .order-summary h1	public/order-summary-component/style.css	/^  .order-summary h1 {$/;"	s
 .order-summary p	public/order-summary-component/style.css	/^  .order-summary p {$/;"	s
+.ratings	static/social-proof-section-master/solution/style.scss	/^		.ratings {$/;"	c
+.ratings	static/social-proof-section-master/solution/style.scss	/^.ratings {$/;"	c
+.reviews	assets/social-proof-section-master/style.scss	/^.reviews {$/;"	c
+.reviews	static/social-proof-section-master/solution/style.scss	/^		.reviews {$/;"	c
+.reviews	static/social-proof-section-master/solution/style.scss	/^.reviews {$/;"	c
 .sell	assets/single-price-grid-component-master/style.scss	/^		.sell  { grid-area: s; }$/;"	c
 .sell	assets/single-price-grid-component-master/style.scss	/^	.sell {$/;"	c
 .sell	public/single-price-grid-component-master/solution/style.scss	/^		.sell  { grid-area: s; }$/;"	c
 .sell	public/single-price-grid-component-master/solution/style.scss	/^	.sell {$/;"	c
 .sell	static/single-price-grid-component-master/solution/style.scss	/^		.sell  { grid-area: s; }$/;"	c
 .sell	static/single-price-grid-component-master/solution/style.scss	/^	.sell {$/;"	c
+.star-ratings-only	assets/social-proof-section-master/style.scss	/^.star-ratings-only {$/;"	c
+.stars	assets/social-proof-section-master/style.scss	/^	.stars {$/;"	c
 1.4K	layouts/_default/profile-card-component.html	/^        <h1>1.4K<\/h1>$/;"	h
 1.4K	public/profile-card-component/index.html	/^        <h1>1.4K<\/h1>$/;"	h
 1.4K	public/profile-card-component/solution/profile-card-component.html	/^        <h1>1.4K<\/h1>$/;"	h
 1.4K	static/profile-card-component/solution/profile-card-component.html	/^        <h1>1.4K<\/h1>$/;"	h
+10,000+ of our users love our products.	layouts/_default/social-proof-section-master.html	/^  <h1> 10,000+ of our users love our products.  <\/h1>$/;"	h
+10,000+ of our users love our products.	static/social-proof-section-master/solution/social-proof-section-master.html	/^  <h1> 10,000+ of our users love our products.  <\/h1>$/;"	h
 10k+	layouts/_default/stats-preview-card-component.html	/^      <div class="brag"><h1>10k+<\/h1> <p>companies<\/p><\/div>$/;"	h
 10k+	public/stats-preview-card-component/index.html	/^      <div class="brag"><h1>10k+<\/h1> <p>companies<\/p><\/div>$/;"	h
 10k+	public/stats-preview-card-component/solution/stats-preview-card.html	/^      <div class="brag"><h1>10k+<\/h1> <p>companies<\/p><\/div>$/;"	h
@@ -144,32 +157,39 @@ Acknowledgments	exercises/finished/3-column-preview-card-component/README-templa
 Acknowledgments	exercises/finished/four-card-feature-section-master/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Four card feature section solution
 Acknowledgments	exercises/finished/order-summary-component/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Order summary card solution
 Acknowledgments	exercises/finished/profile-card-component-main/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Profile card component solution
+Acknowledgments	exercises/finished/single-price-grid-component-master/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Single price grid component solution
 Acknowledgments	exercises/finished/stats-preview-card-component-main/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
-Acknowledgments	exercises/single-price-grid-component-master/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Single price grid component solution
+Acknowledgments	exercises/social-proof-section-master/README-template.md	/^## Acknowledgments$/;"	s	chapter:Frontend Mentor - Social proof section solution
+Anne Wallace	layouts/_default/social-proof-section-master.html	/^        <h2> Anne Wallace <\/h2>$/;"	i
+Anne Wallace	static/social-proof-section-master/solution/social-proof-section-master.html	/^        <h2> Anne Wallace <\/h2>$/;"	i
 Author	exercises/finished/3-column-preview-card-component/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - 3-column preview card component solution
 Author	exercises/finished/four-card-feature-section-master/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Four card feature section solution
 Author	exercises/finished/order-summary-component/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Order summary card solution
 Author	exercises/finished/profile-card-component-main/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Profile card component solution
+Author	exercises/finished/single-price-grid-component-master/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Single price grid component solution
 Author	exercises/finished/stats-preview-card-component-main/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
-Author	exercises/single-price-grid-component-master/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Single price grid component solution
+Author	exercises/social-proof-section-master/README-template.md	/^## Author$/;"	s	chapter:Frontend Mentor - Social proof section solution
 Body Copy	exercises/finished/3-column-preview-card-component/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
 Body Copy	exercises/finished/four-card-feature-section-master/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
 Body Copy	exercises/finished/order-summary-component/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
 Body Copy	exercises/finished/profile-card-component-main/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
+Body Copy	exercises/finished/single-price-grid-component-master/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
 Body Copy	exercises/finished/stats-preview-card-component-main/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
-Body Copy	exercises/single-price-grid-component-master/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
+Body Copy	exercises/social-proof-section-master/style-guide.md	/^### Body Copy$/;"	S	section:Front-end Style Guide""Typography
 Building your project	exercises/finished/3-column-preview-card-component/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Building your project	exercises/finished/four-card-feature-section-master/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Four card feature section
 Building your project	exercises/finished/order-summary-component/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Order summary card
 Building your project	exercises/finished/profile-card-component-main/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Profile card component
+Building your project	exercises/finished/single-price-grid-component-master/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Single price grid component
 Building your project	exercises/finished/stats-preview-card-component-main/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Stats preview card component
-Building your project	exercises/single-price-grid-component-master/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Single price grid component
+Building your project	exercises/social-proof-section-master/README.md	/^## Building your project$/;"	s	chapter:Frontend Mentor - Social proof section
 Built with	exercises/finished/3-column-preview-card-component/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - 3-column preview card component solution""My process
 Built with	exercises/finished/four-card-feature-section-master/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Four card feature section solution""My process
 Built with	exercises/finished/order-summary-component/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Order summary card solution""My process
 Built with	exercises/finished/profile-card-component-main/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Profile card component solution""My process
+Built with	exercises/finished/single-price-grid-component-master/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Single price grid component solution""My process
 Built with	exercises/finished/stats-preview-card-component-main/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Stats preview card component solution""My process
-Built with	exercises/single-price-grid-component-master/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Single price grid component solution""My process
+Built with	exercises/social-proof-section-master/README-template.md	/^### Built with$/;"	S	section:Frontend Mentor - Social proof section solution""My process
 CSS practice website	public/index.html	/^		<h1>CSS practice website<\/h1>$/;"	h
 Calculator	layouts/_default/four-card-feature-section-master.html	/^      <h2> Calculator <\/h2>$/;"	i
 Calculator	public/four-card-feature-section-master/index.html	/^      <h2> Calculator <\/h2>$/;"	i
@@ -180,44 +200,53 @@ Colors	exercises/finished/3-column-preview-card-component/style-guide.md	/^## Co
 Colors	exercises/finished/four-card-feature-section-master/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
 Colors	exercises/finished/order-summary-component/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
 Colors	exercises/finished/profile-card-component-main/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
+Colors	exercises/finished/single-price-grid-component-master/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
 Colors	exercises/finished/stats-preview-card-component-main/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
-Colors	exercises/single-price-grid-component-master/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
+Colors	exercises/social-proof-section-master/style-guide.md	/^## Colors$/;"	s	chapter:Front-end Style Guide
+Colton Smith	layouts/_default/social-proof-section-master.html	/^        <h2> Colton Smith <\/h2>$/;"	i
+Colton Smith	static/social-proof-section-master/solution/social-proof-section-master.html	/^        <h2> Colton Smith <\/h2>$/;"	i
 Continued development	exercises/finished/3-column-preview-card-component/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - 3-column preview card component solution""My process
 Continued development	exercises/finished/four-card-feature-section-master/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Four card feature section solution""My process
 Continued development	exercises/finished/order-summary-component/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Order summary card solution""My process
 Continued development	exercises/finished/profile-card-component-main/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Profile card component solution""My process
+Continued development	exercises/finished/single-price-grid-component-master/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Single price grid component solution""My process
 Continued development	exercises/finished/stats-preview-card-component-main/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Stats preview card component solution""My process
-Continued development	exercises/single-price-grid-component-master/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Single price grid component solution""My process
+Continued development	exercises/social-proof-section-master/README-template.md	/^### Continued development$/;"	S	section:Frontend Mentor - Social proof section solution""My process
 Create a custom `README.md`	exercises/finished/3-column-preview-card-component/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Create a custom `README.md`	exercises/finished/four-card-feature-section-master/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Four card feature section
 Create a custom `README.md`	exercises/finished/order-summary-component/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Order summary card
 Create a custom `README.md`	exercises/finished/profile-card-component-main/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Profile card component
+Create a custom `README.md`	exercises/finished/single-price-grid-component-master/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Single price grid component
 Create a custom `README.md`	exercises/finished/stats-preview-card-component-main/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Stats preview card component
-Create a custom `README.md`	exercises/single-price-grid-component-master/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Single price grid component
+Create a custom `README.md`	exercises/social-proof-section-master/README.md	/^## Create a custom `README.md`$/;"	s	chapter:Frontend Mentor - Social proof section
 Data	resources/_gen/assets/scss/3-column-preview-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"3-column-preview-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	o
 Data	resources/_gen/assets/scss/four-card-feature-section-master/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"four-card-feature-section-master\/style.css","MediaType":"text\/css","Data":{}}/;"	o
 Data	resources/_gen/assets/scss/order-summary-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"order-summary-component\/style.css","MediaType":"text\/css","Data":{}}/;"	o
 Data	resources/_gen/assets/scss/profile-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"profile-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	o
 Data	resources/_gen/assets/scss/single-price-grid-component-master/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"single-price-grid-component-master\/style.css","MediaType":"text\/css","Data":{}}/;"	o
+Data	resources/_gen/assets/scss/social-proof-section-master/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"social-proof-section-master\/style.css","MediaType":"text\/css","Data":{}}/;"	o
 Data	resources/_gen/assets/scss/stats-preview-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"stats-preview-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	o
 Deploying your project	exercises/finished/3-column-preview-card-component/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Deploying your project	exercises/finished/four-card-feature-section-master/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Four card feature section
 Deploying your project	exercises/finished/order-summary-component/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Order summary card
 Deploying your project	exercises/finished/profile-card-component-main/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Profile card component
+Deploying your project	exercises/finished/single-price-grid-component-master/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Single price grid component
 Deploying your project	exercises/finished/stats-preview-card-component-main/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Stats preview card component
-Deploying your project	exercises/single-price-grid-component-master/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Single price grid component
+Deploying your project	exercises/social-proof-section-master/README.md	/^## Deploying your project$/;"	s	chapter:Frontend Mentor - Social proof section
 Font	exercises/finished/3-column-preview-card-component/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
 Font	exercises/finished/order-summary-component/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
 Font	exercises/finished/profile-card-component-main/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
+Font	exercises/finished/single-price-grid-component-master/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
 Font	exercises/finished/stats-preview-card-component-main/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
-Font	exercises/single-price-grid-component-master/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
+Font	exercises/social-proof-section-master/style-guide.md	/^### Font$/;"	S	section:Front-end Style Guide""Typography
 Fonts	exercises/finished/four-card-feature-section-master/style-guide.md	/^### Fonts$/;"	S	section:Front-end Style Guide""Typography
 Front-end Style Guide	exercises/finished/3-column-preview-card-component/style-guide.md	/^# Front-end Style Guide$/;"	c
 Front-end Style Guide	exercises/finished/four-card-feature-section-master/style-guide.md	/^# Front-end Style Guide$/;"	c
 Front-end Style Guide	exercises/finished/order-summary-component/style-guide.md	/^# Front-end Style Guide$/;"	c
 Front-end Style Guide	exercises/finished/profile-card-component-main/style-guide.md	/^# Front-end Style Guide$/;"	c
+Front-end Style Guide	exercises/finished/single-price-grid-component-master/style-guide.md	/^# Front-end Style Guide$/;"	c
 Front-end Style Guide	exercises/finished/stats-preview-card-component-main/style-guide.md	/^# Front-end Style Guide$/;"	c
-Front-end Style Guide	exercises/single-price-grid-component-master/style-guide.md	/^# Front-end Style Guide$/;"	c
+Front-end Style Guide	exercises/social-proof-section-master/style-guide.md	/^# Front-end Style Guide$/;"	c
 Frontend Mentor - 3-column preview card component	exercises/finished/3-column-preview-card-component/README.md	/^# Frontend Mentor - 3-column preview card component$/;"	c
 Frontend Mentor - 3-column preview card component solution	exercises/finished/3-column-preview-card-component/README-template.md	/^# Frontend Mentor - 3-column preview card component solution$/;"	c
 Frontend Mentor - Four card feature section	exercises/finished/four-card-feature-section-master/README.md	/^# Frontend Mentor - Four card feature section$/;"	c
@@ -226,8 +255,10 @@ Frontend Mentor - Order summary card	exercises/finished/order-summary-component/
 Frontend Mentor - Order summary card solution	exercises/finished/order-summary-component/README-template.md	/^# Frontend Mentor - Order summary card solution$/;"	c
 Frontend Mentor - Profile card component	exercises/finished/profile-card-component-main/README.md	/^# Frontend Mentor - Profile card component$/;"	c
 Frontend Mentor - Profile card component solution	exercises/finished/profile-card-component-main/README-template.md	/^# Frontend Mentor - Profile card component solution$/;"	c
-Frontend Mentor - Single price grid component	exercises/single-price-grid-component-master/README.md	/^# Frontend Mentor - Single price grid component$/;"	c
-Frontend Mentor - Single price grid component solution	exercises/single-price-grid-component-master/README-template.md	/^# Frontend Mentor - Single price grid component solution$/;"	c
+Frontend Mentor - Single price grid component	exercises/finished/single-price-grid-component-master/README.md	/^# Frontend Mentor - Single price grid component$/;"	c
+Frontend Mentor - Single price grid component solution	exercises/finished/single-price-grid-component-master/README-template.md	/^# Frontend Mentor - Single price grid component solution$/;"	c
+Frontend Mentor - Social proof section	exercises/social-proof-section-master/README.md	/^# Frontend Mentor - Social proof section$/;"	c
+Frontend Mentor - Social proof section solution	exercises/social-proof-section-master/README-template.md	/^# Frontend Mentor - Social proof section solution$/;"	c
 Frontend Mentor - Stats preview card component	exercises/finished/stats-preview-card-component-main/README.md	/^# Frontend Mentor - Stats preview card component$/;"	c
 Frontend Mentor - Stats preview card component solution	exercises/finished/stats-preview-card-component-main/README-template.md	/^# Frontend Mentor - Stats preview card component solution$/;"	c
 Get insights that help your business grow.	layouts/_default/stats-preview-card-component.html	/^    <h1>Get <b>insights <\/b> that help your business grow.<\/h1>$/;"	h
@@ -238,8 +269,11 @@ Got feedback for us?	exercises/finished/3-column-preview-card-component/README.m
 Got feedback for us?	exercises/finished/four-card-feature-section-master/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Four card feature section
 Got feedback for us?	exercises/finished/order-summary-component/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Order summary card
 Got feedback for us?	exercises/finished/profile-card-component-main/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Profile card component
+Got feedback for us?	exercises/finished/single-price-grid-component-master/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Single price grid component
 Got feedback for us?	exercises/finished/stats-preview-card-component-main/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Stats preview card component
-Got feedback for us?	exercises/single-price-grid-component-master/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Single price grid component
+Got feedback for us?	exercises/social-proof-section-master/README.md	/^## Got feedback for us?$/;"	s	chapter:Frontend Mentor - Social proof section
+Irene Roberts	layouts/_default/social-proof-section-master.html	/^        <h2> Irene Roberts <\/h2>$/;"	i
+Irene Roberts	static/social-proof-section-master/solution/social-proof-section-master.html	/^        <h2> Irene Roberts <\/h2>$/;"	i
 Join our community	layouts/_default/single-price-grid-component-master.html	/^    <h1> Join our community <\/h1>$/;"	h
 Join our community	public/single-price-grid-component-master/index.html	/^    <h1> Join our community <\/h1>$/;"	h
 Join our community	public/single-price-grid-component-master/solution/single-price-grid-component-master.html	/^    <h1> Join our community <\/h1>$/;"	h
@@ -252,14 +286,16 @@ Layout	exercises/finished/3-column-preview-card-component/style-guide.md	/^## La
 Layout	exercises/finished/four-card-feature-section-master/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
 Layout	exercises/finished/order-summary-component/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
 Layout	exercises/finished/profile-card-component-main/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
+Layout	exercises/finished/single-price-grid-component-master/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
 Layout	exercises/finished/stats-preview-card-component-main/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
-Layout	exercises/single-price-grid-component-master/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
+Layout	exercises/social-proof-section-master/style-guide.md	/^## Layout$/;"	s	chapter:Front-end Style Guide
 Links	exercises/finished/3-column-preview-card-component/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - 3-column preview card component solution""Overview
 Links	exercises/finished/four-card-feature-section-master/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Four card feature section solution""Overview
 Links	exercises/finished/order-summary-component/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
 Links	exercises/finished/profile-card-component-main/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Profile card component solution""Overview
+Links	exercises/finished/single-price-grid-component-master/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Single price grid component solution""Overview
 Links	exercises/finished/stats-preview-card-component-main/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Stats preview card component solution""Overview
-Links	exercises/single-price-grid-component-master/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Single price grid component solution""Overview
+Links	exercises/social-proof-section-master/README-template.md	/^### Links$/;"	S	section:Frontend Mentor - Social proof section solution""Overview
 Luxury	layouts/_default/3-column-preview-card-component.html	/^    <h1>Luxury<\/h1>$/;"	h
 Luxury	public/3-column-preview-card-component/index.html	/^    <h1>Luxury<\/h1>$/;"	h
 Luxury	public/3-column-preview-card-component/solution/3-column-preview-card.html	/^    <h1>Luxury<\/h1>$/;"	h
@@ -269,6 +305,7 @@ MediaType	resources/_gen/assets/scss/four-card-feature-section-master/style.scss
 MediaType	resources/_gen/assets/scss/order-summary-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"order-summary-component\/style.css","MediaType":"text\/css","Data":{}}/;"	s
 MediaType	resources/_gen/assets/scss/profile-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"profile-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	s
 MediaType	resources/_gen/assets/scss/single-price-grid-component-master/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"single-price-grid-component-master\/style.css","MediaType":"text\/css","Data":{}}/;"	s
+MediaType	resources/_gen/assets/scss/social-proof-section-master/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"social-proof-section-master\/style.css","MediaType":"text\/css","Data":{}}/;"	s
 MediaType	resources/_gen/assets/scss/stats-preview-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"stats-preview-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	s
 Monthly Subscription	layouts/_default/single-price-grid-component-master.html	/^    <h2> Monthly Subscription <\/h2>$/;"	i
 Monthly Subscription	public/single-price-grid-component-master/index.html	/^    <h2> Monthly Subscription <\/h2>$/;"	i
@@ -278,14 +315,16 @@ My process	exercises/finished/3-column-preview-card-component/README-template.md
 My process	exercises/finished/four-card-feature-section-master/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Four card feature section solution
 My process	exercises/finished/order-summary-component/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Order summary card solution
 My process	exercises/finished/profile-card-component-main/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Profile card component solution
+My process	exercises/finished/single-price-grid-component-master/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Single price grid component solution
 My process	exercises/finished/stats-preview-card-component-main/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
-My process	exercises/single-price-grid-component-master/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Single price grid component solution
+My process	exercises/social-proof-section-master/README-template.md	/^## My process$/;"	s	chapter:Frontend Mentor - Social proof section solution
 Neutral	exercises/finished/3-column-preview-card-component/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
 Neutral	exercises/finished/four-card-feature-section-master/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
 Neutral	exercises/finished/order-summary-component/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
 Neutral	exercises/finished/profile-card-component-main/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
+Neutral	exercises/finished/single-price-grid-component-master/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
 Neutral	exercises/finished/stats-preview-card-component-main/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
-Neutral	exercises/single-price-grid-component-master/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
+Neutral	exercises/social-proof-section-master/style-guide.md	/^### Neutral$/;"	S	section:Front-end Style Guide""Colors
 Order Summary	layouts/_default/order-summary-component.html	/^      <h1>Order Summary<\/h1>$/;"	h
 Order Summary	public/order-summary-component/index.html	/^      <h1>Order Summary<\/h1>$/;"	h
 Order Summary	public/order-summary-component/solution/order-summary-component.html	/^      <h1>Order Summary<\/h1>$/;"	h
@@ -294,14 +333,16 @@ Overview	exercises/finished/3-column-preview-card-component/README-template.md	/
 Overview	exercises/finished/four-card-feature-section-master/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Four card feature section solution
 Overview	exercises/finished/order-summary-component/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Order summary card solution
 Overview	exercises/finished/profile-card-component-main/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Profile card component solution
+Overview	exercises/finished/single-price-grid-component-master/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Single price grid component solution
 Overview	exercises/finished/stats-preview-card-component-main/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
-Overview	exercises/single-price-grid-component-master/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Single price grid component solution
+Overview	exercises/social-proof-section-master/README-template.md	/^## Overview$/;"	s	chapter:Frontend Mentor - Social proof section solution
 Primary	exercises/finished/3-column-preview-card-component/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
 Primary	exercises/finished/four-card-feature-section-master/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
 Primary	exercises/finished/order-summary-component/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
 Primary	exercises/finished/profile-card-component-main/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
+Primary	exercises/finished/single-price-grid-component-master/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
 Primary	exercises/finished/stats-preview-card-component-main/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
-Primary	exercises/single-price-grid-component-master/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
+Primary	exercises/social-proof-section-master/style-guide.md	/^### Primary$/;"	S	section:Front-end Style Guide""Colors
 Reliable, efficient delivery	layouts/_default/four-card-feature-section-master.html	/^  <h1> Reliable, efficient delivery <\/h1>$/;"	h
 Reliable, efficient delivery	public/four-card-feature-section-master/index.html	/^  <h1> Reliable, efficient delivery <\/h1>$/;"	h
 Reliable, efficient delivery	public/four-card-feature-section-master/solution/four-card-feature-section-master.html	/^  <h1> Reliable, efficient delivery <\/h1>$/;"	h
@@ -314,8 +355,9 @@ Screenshot	exercises/finished/3-column-preview-card-component/README-template.md
 Screenshot	exercises/finished/four-card-feature-section-master/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Four card feature section solution""Overview
 Screenshot	exercises/finished/order-summary-component/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Order summary card solution""Overview
 Screenshot	exercises/finished/profile-card-component-main/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Profile card component solution""Overview
+Screenshot	exercises/finished/single-price-grid-component-master/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Single price grid component solution""Overview
 Screenshot	exercises/finished/stats-preview-card-component-main/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Stats preview card component solution""Overview
-Screenshot	exercises/single-price-grid-component-master/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Single price grid component solution""Overview
+Screenshot	exercises/social-proof-section-master/README-template.md	/^### Screenshot$/;"	S	section:Frontend Mentor - Social proof section solution""Overview
 Sedans	layouts/_default/3-column-preview-card-component.html	/^    <h1>Sedans<\/h1>$/;"	h
 Sedans	public/3-column-preview-card-component/index.html	/^    <h1>Sedans<\/h1>$/;"	h
 Sedans	public/3-column-preview-card-component/solution/3-column-preview-card.html	/^    <h1>Sedans<\/h1>$/;"	h
@@ -324,14 +366,16 @@ Sharing your solution	exercises/finished/3-column-preview-card-component/README.
 Sharing your solution	exercises/finished/four-card-feature-section-master/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Four card feature section
 Sharing your solution	exercises/finished/order-summary-component/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Order summary card
 Sharing your solution	exercises/finished/profile-card-component-main/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Profile card component
+Sharing your solution	exercises/finished/single-price-grid-component-master/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Single price grid component
 Sharing your solution	exercises/finished/stats-preview-card-component-main/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Stats preview card component
-Sharing your solution	exercises/single-price-grid-component-master/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Single price grid component
+Sharing your solution	exercises/social-proof-section-master/README.md	/^## Sharing your solution$/;"	s	chapter:Frontend Mentor - Social proof section
 Submitting your solution	exercises/finished/3-column-preview-card-component/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Submitting your solution	exercises/finished/four-card-feature-section-master/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Four card feature section
 Submitting your solution	exercises/finished/order-summary-component/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Order summary card
 Submitting your solution	exercises/finished/profile-card-component-main/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Profile card component
+Submitting your solution	exercises/finished/single-price-grid-component-master/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Single price grid component
 Submitting your solution	exercises/finished/stats-preview-card-component-main/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Stats preview card component
-Submitting your solution	exercises/single-price-grid-component-master/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Single price grid component
+Submitting your solution	exercises/social-proof-section-master/README.md	/^## Submitting your solution$/;"	s	chapter:Frontend Mentor - Social proof section
 Supervisor	layouts/_default/four-card-feature-section-master.html	/^      <h2> Supervisor <\/h2>$/;"	i
 Supervisor	public/four-card-feature-section-master/index.html	/^      <h2> Supervisor <\/h2>$/;"	i
 Supervisor	public/four-card-feature-section-master/solution/four-card-feature-section-master.html	/^      <h2> Supervisor <\/h2>$/;"	i
@@ -340,14 +384,16 @@ Table of contents	exercises/finished/3-column-preview-card-component/README-temp
 Table of contents	exercises/finished/four-card-feature-section-master/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Four card feature section solution
 Table of contents	exercises/finished/order-summary-component/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Order summary card solution
 Table of contents	exercises/finished/profile-card-component-main/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Profile card component solution
+Table of contents	exercises/finished/single-price-grid-component-master/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Single price grid component solution
 Table of contents	exercises/finished/stats-preview-card-component-main/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Stats preview card component solution
-Table of contents	exercises/single-price-grid-component-master/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Single price grid component solution
+Table of contents	exercises/social-proof-section-master/README-template.md	/^## Table of contents$/;"	s	chapter:Frontend Mentor - Social proof section solution
 Tags	public/tags/index.html	/^		<h1>Tags<\/h1>$/;"	h
 Target	resources/_gen/assets/scss/3-column-preview-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"3-column-preview-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	s
 Target	resources/_gen/assets/scss/four-card-feature-section-master/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"four-card-feature-section-master\/style.css","MediaType":"text\/css","Data":{}}/;"	s
 Target	resources/_gen/assets/scss/order-summary-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"order-summary-component\/style.css","MediaType":"text\/css","Data":{}}/;"	s
 Target	resources/_gen/assets/scss/profile-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"profile-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	s
 Target	resources/_gen/assets/scss/single-price-grid-component-master/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"single-price-grid-component-master\/style.css","MediaType":"text\/css","Data":{}}/;"	s
+Target	resources/_gen/assets/scss/social-proof-section-master/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"social-proof-section-master\/style.css","MediaType":"text\/css","Data":{}}/;"	s
 Target	resources/_gen/assets/scss/stats-preview-card-component/style.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"stats-preview-card-component\/style.css","MediaType":"text\/css","Data":{}}/;"	s
 Team Builder	layouts/_default/four-card-feature-section-master.html	/^      <h2> Team Builder <\/h2>$/;"	i
 Team Builder	public/four-card-feature-section-master/index.html	/^      <h2> Team Builder <\/h2>$/;"	i
@@ -361,22 +407,28 @@ The challenge	exercises/finished/order-summary-component/README-template.md	/^##
 The challenge	exercises/finished/order-summary-component/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Order summary card
 The challenge	exercises/finished/profile-card-component-main/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - Profile card component solution""Overview
 The challenge	exercises/finished/profile-card-component-main/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Profile card component
+The challenge	exercises/finished/single-price-grid-component-master/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - Single price grid component solution""Overview
+The challenge	exercises/finished/single-price-grid-component-master/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Single price grid component
 The challenge	exercises/finished/stats-preview-card-component-main/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - Stats preview card component solution""Overview
 The challenge	exercises/finished/stats-preview-card-component-main/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Stats preview card component
-The challenge	exercises/single-price-grid-component-master/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - Single price grid component solution""Overview
-The challenge	exercises/single-price-grid-component-master/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Single price grid component
+The challenge	exercises/social-proof-section-master/README-template.md	/^### The challenge$/;"	S	section:Frontend Mentor - Social proof section solution""Overview
+The challenge	exercises/social-proof-section-master/README.md	/^## The challenge$/;"	s	chapter:Frontend Mentor - Social proof section
 Typography	exercises/finished/3-column-preview-card-component/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
 Typography	exercises/finished/four-card-feature-section-master/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
 Typography	exercises/finished/order-summary-component/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
 Typography	exercises/finished/profile-card-component-main/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
+Typography	exercises/finished/single-price-grid-component-master/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
 Typography	exercises/finished/stats-preview-card-component-main/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
-Typography	exercises/single-price-grid-component-master/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
+Typography	exercises/social-proof-section-master/style-guide.md	/^## Typography$/;"	s	chapter:Front-end Style Guide
 Useful resources	exercises/finished/3-column-preview-card-component/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - 3-column preview card component solution""My process
 Useful resources	exercises/finished/four-card-feature-section-master/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Four card feature section solution""My process
 Useful resources	exercises/finished/order-summary-component/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Order summary card solution""My process
 Useful resources	exercises/finished/profile-card-component-main/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Profile card component solution""My process
+Useful resources	exercises/finished/single-price-grid-component-master/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Single price grid component solution""My process
 Useful resources	exercises/finished/stats-preview-card-component-main/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Stats preview card component solution""My process
-Useful resources	exercises/single-price-grid-component-master/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Single price grid component solution""My process
+Useful resources	exercises/social-proof-section-master/README-template.md	/^### Useful resources$/;"	S	section:Frontend Mentor - Social proof section solution""My process
+Verified Buyer	layouts/_default/social-proof-section-master.html	/^        <h3> Verified Buyer <\/h3>$/;"	j
+Verified Buyer	static/social-proof-section-master/solution/social-proof-section-master.html	/^        <h3> Verified Buyer <\/h3>$/;"	j
 Victor Crest	layouts/_default/profile-card-component.html	/^      <h1>Victor Crest<\/h1>$/;"	h
 Victor Crest	public/profile-card-component/index.html	/^      <h1>Victor Crest<\/h1>$/;"	h
 Victor Crest	public/profile-card-component/solution/profile-card-component.html	/^      <h1>Victor Crest<\/h1>$/;"	h
@@ -385,20 +437,23 @@ Welcome! 👋	exercises/finished/3-column-preview-card-component/README.md	/^## 
 Welcome! 👋	exercises/finished/four-card-feature-section-master/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Four card feature section
 Welcome! 👋	exercises/finished/order-summary-component/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Order summary card
 Welcome! 👋	exercises/finished/profile-card-component-main/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Profile card component
+Welcome! 👋	exercises/finished/single-price-grid-component-master/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Single price grid component
 Welcome! 👋	exercises/finished/stats-preview-card-component-main/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Stats preview card component
-Welcome! 👋	exercises/single-price-grid-component-master/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Single price grid component
+Welcome! 👋	exercises/social-proof-section-master/README.md	/^## Welcome! 👋$/;"	s	chapter:Frontend Mentor - Social proof section
 What I learned	exercises/finished/3-column-preview-card-component/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - 3-column preview card component solution""My process
 What I learned	exercises/finished/four-card-feature-section-master/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Four card feature section solution""My process
 What I learned	exercises/finished/order-summary-component/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Order summary card solution""My process
 What I learned	exercises/finished/profile-card-component-main/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Profile card component solution""My process
+What I learned	exercises/finished/single-price-grid-component-master/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Single price grid component solution""My process
 What I learned	exercises/finished/stats-preview-card-component-main/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Stats preview card component solution""My process
-What I learned	exercises/single-price-grid-component-master/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Single price grid component solution""My process
+What I learned	exercises/social-proof-section-master/README-template.md	/^### What I learned$/;"	S	section:Frontend Mentor - Social proof section solution""My process
 Where to find everything	exercises/finished/3-column-preview-card-component/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - 3-column preview card component
 Where to find everything	exercises/finished/four-card-feature-section-master/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Four card feature section
 Where to find everything	exercises/finished/order-summary-component/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Order summary card
 Where to find everything	exercises/finished/profile-card-component-main/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Profile card component
+Where to find everything	exercises/finished/single-price-grid-component-master/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Single price grid component
 Where to find everything	exercises/finished/stats-preview-card-component-main/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Stats preview card component
-Where to find everything	exercises/single-price-grid-component-master/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Single price grid component
+Where to find everything	exercises/social-proof-section-master/README.md	/^## Where to find everything$/;"	s	chapter:Frontend Mentor - Social proof section
 Why Us	layouts/_default/single-price-grid-component-master.html	/^    <h2> Why Us <\/h2>$/;"	i
 Why Us	public/single-price-grid-component-master/index.html	/^    <h2> Why Us <\/h2>$/;"	i
 Why Us	public/single-price-grid-component-master/solution/single-price-grid-component-master.html	/^    <h2> Why Us <\/h2>$/;"	i
@@ -411,6 +466,14 @@ a	exercises/finished/profile-card-component-main/images/bg-pattern-card.svg	/^<s
 a	exercises/finished/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
 a	exercises/finished/profile-card-component-main/images/bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	d
 a	exercises/finished/profile-card-component-main/images/bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	i
+a	exercises/social-proof-section-master/images/bg-pattern-bottom-desktop.svg	/^<svg width="1085" height="673" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="/;"	d
+a	exercises/social-proof-section-master/images/bg-pattern-bottom-desktop.svg	/^<svg width="1085" height="673" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="/;"	i
+a	exercises/social-proof-section-master/images/bg-pattern-bottom-mobile.svg	/^<svg width="375" height="503" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	d
+a	exercises/social-proof-section-master/images/bg-pattern-bottom-mobile.svg	/^<svg width="375" height="503" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	i
+a	exercises/social-proof-section-master/images/bg-pattern-top-desktop.svg	/^<svg width="584" height="362" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	d
+a	exercises/social-proof-section-master/images/bg-pattern-top-desktop.svg	/^<svg width="584" height="362" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	i
+a	exercises/social-proof-section-master/images/bg-pattern-top-mobile.svg	/^<svg width="374" height="232" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	d
+a	exercises/social-proof-section-master/images/bg-pattern-top-mobile.svg	/^<svg width="374" height="232" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	i
 a	public/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	d
 a	public/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	i
 a	public/profile-card-component/images/bg-pattern-bottom.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	d
@@ -427,6 +490,14 @@ a	static/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" he
 a	static/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	i
 a	static/profile-card-component/images/bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	d
 a	static/profile-card-component/images/bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	i
+a	static/social-proof-section-master/images/bg-pattern-bottom-desktop.svg	/^<svg width="1085" height="673" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="/;"	d
+a	static/social-proof-section-master/images/bg-pattern-bottom-desktop.svg	/^<svg width="1085" height="673" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="/;"	i
+a	static/social-proof-section-master/images/bg-pattern-bottom-mobile.svg	/^<svg width="375" height="503" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	d
+a	static/social-proof-section-master/images/bg-pattern-bottom-mobile.svg	/^<svg width="375" height="503" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	i
+a	static/social-proof-section-master/images/bg-pattern-top-desktop.svg	/^<svg width="584" height="362" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	d
+a	static/social-proof-section-master/images/bg-pattern-top-desktop.svg	/^<svg width="584" height="362" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	i
+a	static/social-proof-section-master/images/bg-pattern-top-mobile.svg	/^<svg width="374" height="232" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	d
+a	static/social-proof-section-master/images/bg-pattern-top-mobile.svg	/^<svg width="374" height="232" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	i
 article	public/single-price-grid-component-master/style.css	/^article {$/;"	s
 article .about	public/single-price-grid-component-master/style.css	/^  article .about {$/;"	c
 article .about ul	public/single-price-grid-component-master/style.css	/^    article .about ul {$/;"	s
@@ -524,6 +595,7 @@ layout: four-card-feature-section-master	content/four-card-feature-section-maste
 layout: order-summary-component	content/order-summary-component.md	/^layout: order-summary-component$/;"	s
 layout: profile-card-component	content/profile-card-component.md	/^layout: profile-card-component$/;"	s
 layout: single-price-grid-component-master	content/single-price-grid-component-master.md	/^layout: single-price-grid-component-master$/;"	s
+layout: social-proof-section-master	content/social-proof-section-master.md	/^layout: social-proof-section-master$/;"	s
 layout: stats-preview-card-component	content/stats-preview-card-component.md	/^layout: stats-preview-card-component$/;"	s
 layout: {{ .Name }}	archetypes/default.md	/^layout: {{ .Name }}$/;"	s
 main	public/3-column-preview-card-component/style.css	/^main {$/;"	s
@@ -548,28 +620,37 @@ ns2625f5140101	public/four-card-feature-section-master/images/icon-supervisor.sv
 ns38eb6e010101	exercises/finished/four-card-feature-section-master/images/icon-calculator.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="64" height="64"><g fill="none"><path fill="#4/;"	n	uri:http://www.w3.org/2000/svg
 ns3b89f3e10101	static/profile-card-component/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	n	uri:http://www.w3.org/2000/svg
 ns3dac72ce0101	public/order-summary-component/images/pattern-background-desktop.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="1440" height="437"><path fill="#D6E1FF" fill-/;"	n	uri:http://www.w3.org/2000/svg
+ns3e4d030a0101	exercises/social-proof-section-master/images/icon-star.svg	/^<svg width="17" height="16" xmlns="http:\/\/www.w3.org\/2000\/svg"><path d="M16.539 6.097a.297.2/;"	n	uri:http://www.w3.org/2000/svg
 ns42ec0ede0101	public/four-card-feature-section-master/images/icon-karma.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="64" height="64"><g fill="none"><path fill="#6/;"	n	uri:http://www.w3.org/2000/svg
 ns4ecfdb970101	static/order-summary-component/images/pattern-background-desktop.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="1440" height="437"><path fill="#D6E1FF" fill-/;"	n	uri:http://www.w3.org/2000/svg
 ns549849c30101	exercises/finished/four-card-feature-section-master/images/icon-karma.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="64" height="64"><g fill="none"><path fill="#6/;"	n	uri:http://www.w3.org/2000/svg
 ns566d1cf80101	exercises/finished/order-summary-component/images/icon-music.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="48" height="48"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 ns588311af0101	exercises/finished/profile-card-component-main/images/bg-pattern-card.svg	/^<svg width="350" height="140" xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w/;"	n	uri:http://www.w3.org/2000/svg
+ns5a9c62b50101	exercises/social-proof-section-master/images/bg-pattern-top-desktop.svg	/^<svg width="584" height="362" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	n	uri:http://www.w3.org/2000/svg
 ns6c8ae40c0101	public/order-summary-component/images/pattern-background-mobile.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="375" height="194"><path fill="#D6E1FF" fill-r/;"	n	uri:http://www.w3.org/2000/svg
 ns6d0fd7b50101	static/order-summary-component/images/pattern-background-mobile.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="375" height="194"><path fill="#D6E1FF" fill-r/;"	n	uri:http://www.w3.org/2000/svg
 ns705935650101	public/sitemap.xml	/^  xmlns:xhtml="http:\/\/www.w3.org\/1999\/xhtml">$/;"	n	uri:http://www.sitemaps.org/schemas/sitemap/0.9
 ns7411b7c70101	static/four-card-feature-section-master/images/icon-karma.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="64" height="64"><g fill="none"><path fill="#6/;"	n	uri:http://www.w3.org/2000/svg
 ns76f6da130101	exercises/finished/order-summary-component/images/pattern-background-desktop.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="1440" height="437"><path fill="#D6E1FF" fill-/;"	n	uri:http://www.w3.org/2000/svg
+ns7eaf28320101	static/social-proof-section-master/images/bg-pattern-bottom-mobile.svg	/^<svg width="375" height="503" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	n	uri:http://www.w3.org/2000/svg
 ns84b3c7190101	exercises/finished/four-card-feature-section-master/images/icon-supervisor.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="64" height="64"><g fill="none"><path fill="#6/;"	n	uri:http://www.w3.org/2000/svg
 ns8cce3e850101	static/four-card-feature-section-master/images/icon-calculator.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="64" height="64"><g fill="none"><path fill="#4/;"	n	uri:http://www.w3.org/2000/svg
 ns8d47a2480101	exercises/finished/profile-card-component-main/images/bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	n	uri:http://www.w3.org/2000/svg
+ns909086170101	exercises/social-proof-section-master/images/bg-pattern-bottom-desktop.svg	/^<svg width="1085" height="673" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="/;"	n	uri:http://www.w3.org/2000/svg
 ns931555580101	public/3-column-preview-card-component/images/icon-luxury.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
+ns94593bb40101	static/social-proof-section-master/images/bg-pattern-bottom-desktop.svg	/^<svg width="1085" height="673" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="/;"	n	uri:http://www.w3.org/2000/svg
 ns9cd2f6b10101	exercises/finished/order-summary-component/images/pattern-background-mobile.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="375" height="194"><path fill="#D6E1FF" fill-r/;"	n	uri:http://www.w3.org/2000/svg
+ns9ed562300101	static/social-proof-section-master/images/bg-pattern-top-mobile.svg	/^<svg width="374" height="232" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	n	uri:http://www.w3.org/2000/svg
+nsa3b8f3130101	exercises/social-proof-section-master/images/bg-pattern-top-mobile.svg	/^<svg width="374" height="232" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	n	uri:http://www.w3.org/2000/svg
 nsa4c1903d0101	exercises/finished/3-column-preview-card-component/images/icon-luxury.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 nsa801ce750101	exercises/finished/3-column-preview-card-component/images/icon-suvs.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 nsadd4670d0101	public/four-card-feature-section-master/images/icon-team-builder.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="64" height="64"><g fill="none"><path fill="#E/;"	n	uri:http://www.w3.org/2000/svg
+nsb946b5720101	static/social-proof-section-master/images/bg-pattern-top-desktop.svg	/^<svg width="584" height="362" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	n	uri:http://www.w3.org/2000/svg
 nsbef7cfd60101	static/four-card-feature-section-master/images/icon-team-builder.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="64" height="64"><g fill="none"><path fill="#E/;"	n	uri:http://www.w3.org/2000/svg
 nsc10dde930101	public/profile-card-component/images/bg-pattern-bottom.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	n	uri:http://www.w3.org/2000/svg
 nsc1369fb30101	public/order-summary-component/images/icon-music.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="48" height="48"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 nsc43afe410101	static/3-column-preview-card-component/images/icon-luxury.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
+nscc2532350101	exercises/social-proof-section-master/images/bg-pattern-bottom-mobile.svg	/^<svg width="375" height="503" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="1/;"	n	uri:http://www.w3.org/2000/svg
 nscf4a98110101	public/profile-card-component/images/bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	n	uri:http://www.w3.org/2000/svg
 nscf73f8a60101	exercises/finished/order-summary-component/images/illustration-hero.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" xmlns:xlink="http:\/\/www.w3.org\/1999\/xlink" width/;"	n	uri:http://www.w3.org/2000/svg
 nsd896979d0101	static/four-card-feature-section-master/images/icon-supervisor.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="64" height="64"><g fill="none"><path fill="#6/;"	n	uri:http://www.w3.org/2000/svg
@@ -580,6 +661,7 @@ nsdfcd081c0101	static/profile-card-component/images/bg-pattern-bottom.svg	/^<svg
 nse525a6fd0101	public/3-column-preview-card-component/images/icon-sedans.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 nse71ece520101	exercises/finished/four-card-feature-section-master/images/icon-team-builder.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="64" height="64"><g fill="none"><path fill="#E/;"	n	uri:http://www.w3.org/2000/svg
 nsef7feb790101	static/3-column-preview-card-component/images/icon-suvs.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
+nsf1a01ea70101	static/social-proof-section-master/images/icon-star.svg	/^<svg width="17" height="16" xmlns="http:\/\/www.w3.org\/2000\/svg"><path d="M16.539 6.097a.297.2/;"	n	uri:http://www.w3.org/2000/svg
 nsf6d1e1e20101	exercises/finished/3-column-preview-card-component/images/icon-sedans.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 nsf8db90d00101	public/3-column-preview-card-component/images/icon-suvs.svg	/^<svg width="64" height="40" xmlns="http:\/\/www.w3.org\/2000\/svg"><g fill="none" fill-rule="eve/;"	n	uri:http://www.w3.org/2000/svg
 nsf902063a0101	static/profile-card-component/images/bg-pattern-top.svg	/^<svg width="978" height="978" xmlns="http:\/\/www.w3.org\/2000\/svg"><defs><linearGradient x1="5/;"	n	uri:http://www.w3.org/2000/svg
