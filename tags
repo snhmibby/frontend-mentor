@@ -108,8 +108,11 @@
 .order-summary button	public/order-summary-component/style.css	/^  .order-summary button {$/;"	s
 .order-summary h1	public/order-summary-component/style.css	/^  .order-summary h1 {$/;"	s
 .order-summary p	public/order-summary-component/style.css	/^  .order-summary p {$/;"	s
+.ratings	assets/social-proof-section-master/style.scss	/^		.ratings {$/;"	c
+.ratings	assets/social-proof-section-master/style.scss	/^.ratings {$/;"	c
 .ratings	static/social-proof-section-master/solution/style.scss	/^		.ratings {$/;"	c
 .ratings	static/social-proof-section-master/solution/style.scss	/^.ratings {$/;"	c
+.reviews	assets/social-proof-section-master/style.scss	/^		.reviews {$/;"	c
 .reviews	assets/social-proof-section-master/style.scss	/^.reviews {$/;"	c
 .reviews	static/social-proof-section-master/solution/style.scss	/^		.reviews {$/;"	c
 .reviews	static/social-proof-section-master/solution/style.scss	/^.reviews {$/;"	c
@@ -119,8 +122,6 @@
 .sell	public/single-price-grid-component-master/solution/style.scss	/^	.sell {$/;"	c
 .sell	static/single-price-grid-component-master/solution/style.scss	/^		.sell  { grid-area: s; }$/;"	c
 .sell	static/single-price-grid-component-master/solution/style.scss	/^	.sell {$/;"	c
-.star-ratings-only	assets/social-proof-section-master/style.scss	/^.star-ratings-only {$/;"	c
-.stars	assets/social-proof-section-master/style.scss	/^	.stars {$/;"	c
 1.4K	layouts/_default/profile-card-component.html	/^        <h1>1.4K<\/h1>$/;"	h
 1.4K	public/profile-card-component/index.html	/^        <h1>1.4K<\/h1>$/;"	h
 1.4K	public/profile-card-component/solution/profile-card-component.html	/^        <h1>1.4K<\/h1>$/;"	h
