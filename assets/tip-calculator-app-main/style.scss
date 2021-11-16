@@ -1,0 +1,87 @@
+:root {
+	--primary-color: hsl(172, 67%, 45%);
+	--very-dark: hsl(183, 100%, 15%);
+	--dark-grayish: hsl(186, 14%, 43%);
+	--dark-grayishish: hsl(184, 14%, 56%);
+	--light-grayish: hsl(185, 41%, 84%);
+	--light-grayishish: hsl(189, 41%, 97%);
+	--white: hsl(0, 0%, 100%);
+}
+
+body {
+	background-color: var(--light-grayish);
+	font-size: 24px;
+}
+
+label {
+	display: block;
+	margin: 1rem;
+	margin-top: 3rem;
+
+}
+
+
+article.tip-calculator {
+	background-color: var(--light-grayishish);
+	border-radius: 2rem;
+	padding: 2rem;
+	input {
+		width: 90%;
+		padding: 1rem;
+		border-radius: 1rem;
+		border: none;
+	}
+	section.tip-buttons {
+		display: grid;
+		gap: 1rem;
+		grid-template-columns: 1fr 1fr;
+		button.active {
+			background-color: var(--primary-color);
+		}
+		button {
+			background: var(--very-dark);
+			color: var(--white);
+			padding: 1rem;
+			border: none;
+			border-radius: 1rem;
+		}
+	}
+	section.output {
+		position: relative;
+		border-radius: 1rem;
+		margin-top: 2rem;
+		padding: 2rem;
+		background-color: var(--very-dark);
+		.total-section {
+			position: relative;
+			h2 {
+				margin: 0;
+				margin-top: 1rem;
+				color: var(--white);
+			}
+
+			p {
+				margin: 0;
+			}
+
+			strong {
+				position: absolute;
+				color: var(--primary-color);
+				right: 1rem;
+				top: 2rem;
+			}
+
+
+		}
+
+		button {
+			color: var(--very-dark);
+			background-color: var(--primary-color);
+			width: 100%;
+			border-radius: 1rem;
+			padding: 1rem;
+			border: none;
+			margin-top: 2rem;
+		}
+	}
+}
