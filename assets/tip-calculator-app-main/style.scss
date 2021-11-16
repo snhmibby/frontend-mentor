@@ -20,7 +20,6 @@ label {
 
 }
 
-
 article.tip-calculator {
 	background-color: var(--light-grayishish);
 	border-radius: 2rem;
@@ -31,6 +30,7 @@ article.tip-calculator {
 		border-radius: 1rem;
 		border: none;
 	}
+
 	section.tip-buttons {
 		display: grid;
 		gap: 1rem;
@@ -52,6 +52,7 @@ article.tip-calculator {
 		margin-top: 2rem;
 		padding: 2rem;
 		background-color: var(--very-dark);
+
 		.total-section {
 			position: relative;
 			h2 {
@@ -59,19 +60,15 @@ article.tip-calculator {
 				margin-top: 1rem;
 				color: var(--white);
 			}
-
 			p {
 				margin: 0;
 			}
-
 			strong {
 				position: absolute;
 				color: var(--primary-color);
 				right: 1rem;
 				top: 2rem;
 			}
-
-
 		}
 
 		button {
