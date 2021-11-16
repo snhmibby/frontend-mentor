@@ -1,0 +1,1 @@
+/home/jurjen/www/sites/frontend-mentor.jurjen.dev/exercises/../assets/tip-calculator-app-main//script.js

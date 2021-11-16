@@ -1,6 +1,4 @@
 <head>
-
-
 	{{ if (isset .Params "scss") }}
 		{{ $scss := resources.Get .Params.scss | toCSS }}
 		<link rel="stylesheet" href="{{ $scss.RelPermalink }}">
@@ -8,7 +6,7 @@
 
 	{{ if (isset .Params "js") }}
 		{{ $js := resources.Get .Params.js }}
-		<script src="{{ $js.RelPermalink }}"></script>
+		<script defer src="{{ $js.RelPermalink }}"></script>
 	{{ end }}
 
 	<title>{{.Title}}</title>

@@ -1,1 +1,1 @@
-/home/jurjen/www/frontend-mentor/exercises/../assets/four-card-feature-section-master//script.js
+../../../assets/four-card-feature-section-master/script.js

@@ -1,1 +1,1 @@
-/home/jurjen/www/frontend-mentor/exercises/../assets/social-proof-section-master//script.js
+../../../assets/social-proof-section-master/script.js
