@@ -1,1 +1,0 @@
-/home/jurjen/www/sites/frontend-mentor.jurjen.dev/exercises/../assets/huddle-landing-page-with-single-introductory-section-master//script.js

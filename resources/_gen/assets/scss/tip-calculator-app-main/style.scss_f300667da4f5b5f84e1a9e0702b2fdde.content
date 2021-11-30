@@ -5,11 +5,22 @@
   --dark-grayishish: hsl(184, 14%, 56%);
   --light-grayish: hsl(185, 41%, 84%);
   --light-grayishish: hsl(189, 41%, 97%);
-  --white: hsl(0, 0%, 100%); }
+  --white: hsl(0, 0%, 100%);
+  --section-border: 2rem;
+  --section-padding: 2rem; }
 
 body {
   background-color: var(--light-grayish);
   font-size: 24px; }
+
+article, section {
+  border-radius: var(--section-border);
+  padding: var(--section-padding); }
+
+button {
+  padding: 1rem;
+  border: none;
+  border-radius: 5px; }
 
 label {
   display: block;
@@ -17,9 +28,9 @@ label {
   margin-top: 3rem; }
 
 article.tip-calculator {
-  background-color: var(--light-grayishish);
-  border-radius: 2rem;
-  padding: 2rem; }
+  display: flex;
+  gap: 3rem;
+  background-color: var(--light-grayishish); }
   article.tip-calculator input {
     width: 90%;
     padding: 1rem;
@@ -33,34 +44,29 @@ article.tip-calculator {
       background-color: var(--primary-color); }
     article.tip-calculator section.tip-buttons button {
       background: var(--very-dark);
-      color: var(--white);
-      padding: 1rem;
-      border: none;
-      border-radius: 1rem; }
+      color: var(--white); }
   article.tip-calculator section.output {
-    position: relative;
-    border-radius: 1rem;
-    margin-top: 2rem;
-    padding: 2rem;
-    background-color: var(--very-dark); }
+    flex-grow: 1;
+    background-color: var(--very-dark);
+    position: relative; }
     article.tip-calculator section.output .total-section {
-      position: relative; }
-      article.tip-calculator section.output .total-section h2 {
-        margin: 0;
-        margin-top: 1rem;
-        color: var(--white); }
-      article.tip-calculator section.output .total-section p {
-        margin: 0; }
+      display: flex;
+      align-items: center;
+      justify-content: space-between; }
+      article.tip-calculator section.output .total-section div {
+        align-text: left; }
+        article.tip-calculator section.output .total-section div h2 {
+          color: var(--white);
+          margin: 0; }
+        article.tip-calculator section.output .total-section div p {
+          margin: 0; }
       article.tip-calculator section.output .total-section strong {
-        position: absolute;
-        color: var(--primary-color);
-        right: 1rem;
-        top: 2rem; }
+        align-self: center;
+        font-size: 60px;
+        color: var(--primary-color); }
     article.tip-calculator section.output button {
+      position: absolute;
+      bottom: 2rem;
       color: var(--very-dark);
       background-color: var(--primary-color);
-      width: 100%;
-      border-radius: 1rem;
-      padding: 1rem;
-      border: none;
-      margin-top: 2rem; }
+      width: calc(100% - 2 * var(--section-padding)); }

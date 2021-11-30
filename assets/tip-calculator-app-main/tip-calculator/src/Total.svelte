@@ -3,7 +3,9 @@
 </script>
 
 <section class="total-section">
-	<h2><slot>Total</slot></h2>
-	<p>/ person </p>
+	<div>
+		<h2><slot>Total</slot></h2>
+		<p>/ person </p>
+	</div>
 	<strong>${value.toFixed(2)}</strong>
 </section>

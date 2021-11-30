@@ -6,6 +6,8 @@
 	--light-grayish: hsl(185, 41%, 84%);
 	--light-grayishish: hsl(189, 41%, 97%);
 	--white: hsl(0, 0%, 100%);
+	--section-border: 2rem;
+	--section-padding: 2rem;
 }
 
 body {
@@ -13,17 +15,27 @@ body {
 	font-size: 24px;
 }
 
+article, section {
+	border-radius: var(--section-border);
+	padding: var(--section-padding);
+}
+
+button {
+	padding: 1rem;
+	border: none;
+	border-radius: 5px;
+}
+
 label {
 	display: block;
 	margin: 1rem;
 	margin-top: 3rem;
-
 }
 
 article.tip-calculator {
+	display: flex;
+	gap: 3rem;
 	background-color: var(--light-grayishish);
-	border-radius: 2rem;
-	padding: 2rem;
 	input {
 		width: 90%;
 		padding: 1rem;
@@ -41,44 +53,41 @@ article.tip-calculator {
 		button {
 			background: var(--very-dark);
 			color: var(--white);
-			padding: 1rem;
-			border: none;
-			border-radius: 1rem;
 		}
 	}
+
 	section.output {
-		position: relative;
-		border-radius: 1rem;
-		margin-top: 2rem;
-		padding: 2rem;
+		flex-grow: 1;
 		background-color: var(--very-dark);
+		position: relative;
 
 		.total-section {
-			position: relative;
-			h2 {
-				margin: 0;
-				margin-top: 1rem;
-				color: var(--white);
-			}
-			p {
-				margin: 0;
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			div {
+				align-text: left;
+				h2 {
+					color: var(--white);
+					margin: 0;
+				}
+				p {
+					margin: 0;
+				}
 			}
 			strong {
-				position: absolute;
+				align-self: center;
+				font-size: 60px;
 				color: var(--primary-color);
-				right: 1rem;
-				top: 2rem;
 			}
 		}
 
 		button {
+			position: absolute;
+			bottom: 2rem;
 			color: var(--very-dark);
 			background-color: var(--primary-color);
-			width: 100%;
-			border-radius: 1rem;
-			padding: 1rem;
-			border: none;
-			margin-top: 2rem;
+			width: calc(100% - 2 * var(--section-padding));
 		}
 	}
 }
