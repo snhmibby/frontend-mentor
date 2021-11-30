@@ -22,7 +22,7 @@
 		<label for="bill-input">Bill</label>
 		<input id="bill-input" type=number bind:value={bill} step="0.01" min=0>
 
-		<label>Select Tip %</label>
+		<label for="tip-buttons">Select Tip %</label>
 		<section class="tip-buttons">
 			<TipButton tip={5}  />
 			<TipButton tip={10} />
